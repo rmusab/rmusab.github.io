@@ -12,7 +12,6 @@ profile:
     <p><strong>University:<strong/></p>
     <p>University of Washington, office ART-353</p>
     <p>Seattle, WA 98195-4350</p>
-    <br>
     <p><strong>Work:<strong/></p>
     <p>Huawei Russian Research Institute</p>
     <p>Moscow, Russia</p>

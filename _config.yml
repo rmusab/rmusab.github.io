@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ravil Mussabayev's homepage # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Ravil
-middle_name: R.
+middle_name:
 last_name: Mussabayev
 email: ravmus@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
