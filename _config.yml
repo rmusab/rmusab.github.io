@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ravil
 middle_name:
 last_name: Mussabayev
-email: ravmus@gmail.com
+email: ravmus@u.washington.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ravil Mussabayev's homepage
 footer_text:
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way to reach me is via Telegram
+  The best way to reach me is via email or Telegram
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Welcome to my homepage!
 
 profile:
   align: right
@@ -10,11 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>University:<strong/></p>
-    <p>University of Washington, office ART-353</p>
+    <p>University of Washington, ART-353</p>
     <p>Seattle, WA 98195-4350</p>
     <p><strong>Work:<strong/></p>
     <p>Huawei Russian Research Institute</p>
-    <p>Moscow, Russia</p>
+    <p>Smolenskaya Square 5</p>
+    <p>Moscow, Russia, 121099</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
