@@ -4,7 +4,7 @@
 
 title: Ravil Mussabayev's homepage # the website title (if blank, full name will be used instead)
 first_name: Ravil
-middle_name:
+middle_name: R.
 last_name: Mussabayev
 email: ravmus@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ icon: icon.png # the emoji used as the favicon (alternatively, provide image nam
 url: https://rmusab.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
