@@ -1,47 +1,49 @@
 {
   "basics": {
     "name": "Ravil Mussabayev",
-    "label": "",
+    "label": "Ph.D. Candidate in Mathematics",
     "image": "",
     "email": "ravmus@uw.edu",
     "phone": "+1 (206) 9391844",
     "url": "ravmus.com",
-    "summary": "",
+    "summary": "Ph.D. Candidate in Mathematics with a focus on Novel Efficient and Highly Scalable Clustering Algorithms for Big Data at the University of Washington.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Seattle, WA",
+      "city": "Seattle",
       "countryCode": "US",
-      "region": ""
+      "region": "WA"
     },
     "profiles": [
       {
         "network": "GitHub",
         "username": "",
-        "url": ""
+        "url": "GitHub"
       },
       {
         "network": "LinkedIn",
         "username": "",
-        "url": ""
+        "url": "LinkedIn"
       },
       {
         "network": "Google Scholar",
         "username": "",
-        "url": ""
+        "url": "Google Scholar"
       }
     ]
   },
-
   "work": [
     {
       "name": "Huawei Russian Research Institute",
       "position": "Research Scientist",
       "url": "",
       "startDate": "2022-06",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
+      "endDate": "current",
+      "summary": "Implement, improve, and deploy code refactoring algorithms for Java and C++ services used in Huawei Cloud and other roles.",
+      "highlights": [
+        "Implemented code refactoring algorithms for Huawei Cloud",
+        "Achieved AUC score of 0.84 on real-world Java code dataset"
+      ]
     },
     {
       "name": "Uniline Group LLP",
@@ -49,17 +51,31 @@
       "url": "",
       "startDate": "2015-03",
       "endDate": "2017-12",
-      "summary": "",
-      "highlights": []
+      "summary": "Solved control problem of robotic arm using Python and developed backend for Kazakh text-to-speech system.",
+      "highlights": [
+        "Controlled robotic arm using single video camera",
+        "Developed Kazakh text-to-speech system"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Software Developer",
+      "url": "",
+      "startDate": "2010-09",
+      "endDate": "2014-09",
+      "summary": "Developed various applications including Physics Lab on Google Play.",
+      "highlights": [
+        "Launched Physics Lab on Google Play",
+        "Developed cryptographic algorithm application"
+      ]
     }
   ],
-
   "education": [
     {
       "institution": "University of Washington",
       "url": "",
       "area": "Mathematics",
-      "studyType": "PhD",
+      "studyType": "Ph.D. Candidate",
       "startDate": "2018-09",
       "endDate": "2024-03",
       "score": "3.81/4.0",
@@ -86,41 +102,41 @@
       "courses": []
     }
   ],
-
+  "awards": [
+    {
+      "title": "Winner for summer research abroad",
+      "date": "2017-06",
+      "awarder": "Yessenov Foundation",
+      "summary": "Based on leadership and research potential."
+    }
+  ],
+  "publications": [
+    {
+      "name": "How to Use K-means for Big Data Clustering",
+      "publisher": "Pattern Recognition",
+      "releaseDate": "2022"
+    },
+    {
+      "name": "Reinforcement Learning Intersection Controller",
+      "publisher": "Proceedings of the 14th ICECCO Conference, IEEE Xplore",
+      "releaseDate": "2018"
+    },
+    {
+      "name": "Colour-based object detection, inverse kinematics algorithms and pinhole camera model for controlling robotic arm movement system",
+      "publisher": "Proceedings of the 12th ICECCO Conference, IEEE Xplore",
+      "releaseDate": "2015"
+    }
+  ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python", "C/C++", "MATLAB", "R", "Java", "HTML/CSS", "PHP",
-        "Microsoft SQL Server", "MySQL", "TensorFlow", "Keras", "Hadoop", "Spark",
-        "Git", "Linux shell scripts", "LaTeX"
-      ]
+      "level": "Python, C/C++, MATLAB, R, Java, HTML/CSS, PHP, Databases, TensorFlow, Keras, Hadoop, Spark, Git, Linux shell scripts, LaTeX"
     },
     {
-      "name": "Languages",
-      "keywords": [
-        "English", "Russian"
-      ]
+      "name": "Engineering",
+      "level": "Electrical engineering, computer hardware, microcontrollers, servo motor actuators"
     }
   ],
-
-  "publications": [
-    {
-      "name": "",
-      "publisher": "Pattern Recognition",
-      "releaseDate": "2022",
-      "url": "https://doi.org/10.1016/j.patcog.2022.109269",
-      "summary": "How to Use K-means for Big Data Clustering?"
-    },
-    {
-      "name": "",
-      "publisher": "Proceedings of the 14th ICECCO Conference, IEEE Xplore",
-      "releaseDate": "2018",
-      "url": "https://doi.org/10.1109/ICECCO.2018.8634692",
-      "summary": "Reinforcement Learning Intersection Controller"
-    }
-  ],
-
   "references": [
     {
       "name": "Prof. Kenneth Bube",
