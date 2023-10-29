@@ -1,77 +1,138 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ravil Mussabayev",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ravmus@uw.edu",
+    "phone": "+1 (206) 9391844",
+    "url": "ravmus.com",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Seattle, WA",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": ""
       }
     ]
   },
+
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
+      "name": "Huawei Russian Research Institute",
+      "position": "Research Scientist",
+      "url": "",
+      "startDate": "2022-06",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "Uniline Group LLP",
+      "position": "Research Engineer",
+      "url": "",
+      "startDate": "2015-03",
+      "endDate": "2017-12",
+      "summary": "",
+      "highlights": []
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": []
+
+  "education": [
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": "PhD",
+      "startDate": "2018-09",
+      "endDate": "2024-03",
+      "score": "3.81/4.0",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": "Master of Science",
+      "startDate": "2018-09",
+      "endDate": "2021-03",
+      "score": "3.81/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Kazakh-British Technical University",
+      "url": "",
+      "area": "Mathematical and Computer Modeling",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2015-08",
+      "endDate": "2018-06",
+      "score": "3.93/4.0",
+      "courses": []
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python", "C/C++", "MATLAB", "R", "Java", "HTML/CSS", "PHP",
+        "Microsoft SQL Server", "MySQL", "TensorFlow", "Keras", "Hadoop", "Spark",
+        "Git", "Linux shell scripts", "LaTeX"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "English", "Russian"
+      ]
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "",
+      "publisher": "Pattern Recognition",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1016/j.patcog.2022.109269",
+      "summary": "How to Use K-means for Big Data Clustering?"
+    },
+    {
+      "name": "",
+      "publisher": "Proceedings of the 14th ICECCO Conference, IEEE Xplore",
+      "releaseDate": "2018",
+      "url": "https://doi.org/10.1109/ICECCO.2018.8634692",
+      "summary": "Reinforcement Learning Intersection Controller"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Prof. Kenneth Bube",
+      "reference": ""
+    },
+    {
+      "name": "Prof. Nurlan S. Dairbekov",
+      "reference": ""
+    },
+    {
+      "name": "Prof. Gunther Uhlmann",
+      "reference": ""
+    }
+  ]
 }
