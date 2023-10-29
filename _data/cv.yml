@@ -2,96 +2,118 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ravil Mussabayev
     - name: Date of Birth
-      value: 14th March 1879
+      value: April 17, 1997
     - name: Languages
-      value: English, German
+      value: English, Russian, Kazakh
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate in Mathematics
+      institution: University of Washington Seattle
+      year: 2018 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Prof. Gunther Uhlmann
+        - Research topic: Novel Efficient and Highly Scalable Clustering Algorithms for Big Data
+        - Improved state of the art by more than 31.5% in accuracy and 82.4% in time for large datasets
+        - Published paper “How to Use K-means for Big Data Clustering” in the peer-reviewed Q1 journal “Pattern Recognition” with impact factor 8.52
+    - title: Master of Science in Mathematics
+      institution: University of Washington Seattle
+      year: 2018 – 2021
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.81/4.0
+    - title: Bachelor of Engineering in Mathematical and Computer Modeling
+      institution: Kazakh-British Technical University, Almaty, Kazakhstan
+      year: 2015 – 2018
+      description:
+        - GPA: 3.93/4.0
+        - Advisor: Nurlan S. Dairbekov
+        - Thesis: “Self-learning neural network based traffic signal controller for an isolated intersection and construction of a new clustering algorithm in unsupervised machine learning” [pdf]
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist
+      institution: Huawei Russian Research Institute, Moscow, Russia
+      year: 2022 - current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Implement, improve, and deploy code refactoring algorithms (extract method refactoring, method name prediction) for Java and C++ services used in Huawei Cloud
+        - Devise, train, evaluate, and deploy novel deep-learning-based models, graph neural networks and large language models (LLMs), applied to code vulnerability detection (cybersecurity) for Java, reaching unprecedented state-of-the-art final AUC score of 0.84 on real-world Java code dataset
+        - Prepare research papers on quality vulnerability dataset collection, optimizing vulnerability detection paradigm, applying prompting and in-context learning of LLMs to vulnerability detection, and finetuning SOTA LLMs for in-depth vulnerability detection
+    - title: Research Engineer
+      institution: Uniline Group LLP, Almaty, Kazakhstan
+      year: 2015 – 2017
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Solved control problem of robotic arm in Python using input from single video camera, and published results [ieee][pdf]. Gave 2 international conference talks on project results
+        - Developed backend for Kazakh text-to-speech system in Microsoft Visual C++ for use in devices for people with disabilities
+        - Implemented Fujisaki model for pitch contour generation that resulted in more natural synthesized speech
+    - title: Freelance Software Developer
+      institution: Almaty, Kazakhstan
+      year: 2010 – 2014
       description:
+        - Developed and launched Android application Physics Lab on Google Play that reached more than 17,000 installations within 3 months
+        - Developed commercialized application for new cryptographic algorithm in Embarcadero Delphi
+        - Designed and developed desktop and Android applications for learning English words using text-to-speech technologies and MySQL database
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research and Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant & Predoctoral Instructor
+      institution: University of Washington Seattle
+      year: 2018 – 2022
+      description:
+        - Taught introductory courses on differential equations and linear algebra for sections of 40 students
+        - Conducted practical college-level math classes in sections of 40 students, lead in-class discussions, held office hours, compiled and administered exams
+        - Tutored students in difficult math concepts, and helped them develop problem solving and analytical thinking skills
+    - title: Research Assistant
+      institution: Satbayev University Almaty, Kazakhstan
+      year: 2018
+      description:
+        - Applied reinforcement learning algorithms (Q-learning, Deep Q-Network, Actor-Critic) to problem of traffic light control, and published results [ieee][pdf]
+        - Designed novel reward formula, which led to convergence of models in traffic simulation package SUMO, and visualized results
+        - Trained junior university students on basics of probability and reinforcement learning, and mentored them through research agenda
+    - title: Teaching Assistant
+      institution: Kazakh-British Technical University Almaty, Kazakhstan
+      year: 2017
+      description:
+        - Taught undergraduate math and programming courses
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 'Rustam Mussabayev, Nenad Mladenovic, Bassem Jarboui, and Ravil Mussabayev. “How to Use K-means for Big Data Clustering?” In: Pattern Recognition (2022). doi: 10.1016/j.patcog.2022.109269.'
+    - 'Nurlan S. Dairbekov, Gulnur Tolebi, Daniyar Kurmankhojayev, and Ravil Mussabayev. “Reinforcement Learning Intersection Controller”. In: Proceedings of the 14th ICECCO Conference, IEEE Xplore (2018). doi: 10.1109/ICECCO.2018.8634692.'
+    - 'Ravil Mussabayev. “Colour-based object detection, inverse kinematics algorithms and pinhole camera model for controlling robotic arm movement system”. In: Proceedings of the 12th ICECCO Conference, IEEE Xplore (2015). doi: 10.1109/ICECCO.2015.7416879.'
+
+- title: Conferences
+  type: list
+  contents:
+    - Talk at XII International Conference on Electronics, Computer, and Computation (ICECCO-2015) [pdf], Almaty, Kazakhstan Sep 2015
+    - Talk at XI International Asian Seminar “Problems on the optimization of complex systems”, Cholpon-Ata, Issyk-Kul, Kyrgyzstan Aug 2015
+    - Reviewer and talk at XIV International Conference “Optimization and Applications” (OPTIMA-2023), Petrovac, Montenegro Sep 2023
+
+- title: Technical Skills
+  type: list
+  contents:
+    - Programming: Python (PyTorch, NumPy, Pandas, OpenCV, Scikit-learn, Matplotlib), C/C++ (OpenGL), MATLAB, R, Java, HTML/CSS, PHP, Databases (Microsoft SQL Server, MySQL), TensorFlow, Keras, Hadoop, Spark, Git, Linux shell scripts, LaTeX (wrote > 1000 pages of math)
+    - Relevant coursework: Programming Languages, Algorithms and Data Structures, Theory of Probability and Mathematical Statistics, Inroduction to Machine Learning, Introduction to Artificial Intelligence, Natural Language Processing, Deep Learning, Introduction to Cryptography, Distributed Systems, High-Dimensional Probability in Data Science, Networks and Combinatorial Optimization, Convex Analysis and Nonsmooth Optimization, Optimal Transport, Real Analysis, Topological and Smooth Manifolds
+    - Engineering: electrical engineering, computer hardware, microcontrollers (Arduino, Raspberry Pi), servo motor actuators
+
+- title: Leadership and Awards
+  type: list
+  contents:
+    - Winner (among 300 participants) of $7000 for summer research abroad by Yessenov Foundation based on leadership and research potential Jun - Aug 2017
+    - Held fellowship named after First President of Republic of Kazakhstan for academic excellence
+    - Elected member of university-wide student parliament, 10 out of 2200 students
+    - Winner in nominations “Best GPA 2016, 2017”
+    - Winner of district (2011 – 2014), city (2012, 2013), and national (2013) Olympiads in physics
+    - Graduated with honors from MIPT Distance Learning School of Physics and Technology (Moscow, Russia)
+
+- title: References
+  type: list
+  contents:
+    - Prof. Kenneth Bube [letter]
+    - Prof. Nurlan S. Dairbekov
+    - Prof. Gunther Uhlmann
