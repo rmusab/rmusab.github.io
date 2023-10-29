@@ -8,14 +8,6 @@ profile:
   align: right
   image: ravil-avatar.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><strong>University:<strong/></p>
-    <p>University of Washington, ART-353</p>
-    <p>Seattle, 98195-4350, WA, USA</p>
-    <p><strong>Work:<strong/></p>
-    <p>Huawei Russian Research Institute</p>
-    <p>Smolenskaya Square, 5</p>
-    <p>Moscow, 121099, Russia</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

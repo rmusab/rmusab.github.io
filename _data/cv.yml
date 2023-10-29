@@ -4,33 +4,33 @@
     - name: Full Name
       value: Ravil Mussabayev
     - name: Date of Birth
-      value: April 17, 1997
+      value: July 12th, 1997
     - name: Languages
       value: English, Russian, Kazakh
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate in Mathematics
-      institution: University of Washington Seattle
+    - title: Ph.D. Candidate in Mathematics
+      institution: University of Washington, Seattle
       year: 2018 - 2024
       description:
-        - Advisor: Prof. Gunther Uhlmann
-        - Research topic: Novel Efficient and Highly Scalable Clustering Algorithms for Big Data
+        - Advisor - Prof. Gunther Uhlmann
+        - Research topic - Novel Efficient and Highly Scalable Clustering Algorithms for Big Data
         - Improved state of the art by more than 31.5% in accuracy and 82.4% in time for large datasets
         - Published paper “How to Use K-means for Big Data Clustering” in the peer-reviewed Q1 journal “Pattern Recognition” with impact factor 8.52
     - title: Master of Science in Mathematics
       institution: University of Washington Seattle
       year: 2018 – 2021
       description:
-        - GPA: 3.81/4.0
+        - GPA - 3.81/4.0
     - title: Bachelor of Engineering in Mathematical and Computer Modeling
       institution: Kazakh-British Technical University, Almaty, Kazakhstan
       year: 2015 – 2018
       description:
-        - GPA: 3.93/4.0
-        - Advisor: Nurlan S. Dairbekov
-        - Thesis: “Self-learning neural network based traffic signal controller for an isolated intersection and construction of a new clustering algorithm in unsupervised machine learning” [pdf]
+        - GPA - 3.93/4.0
+        - Advisor - Nurlan S. Dairbekov
+        - Thesis - “Self-learning neural network based traffic signal controller for an isolated intersection and construction of a new clustering algorithm in unsupervised machine learning” [pdf]
 
 - title: Work Experience
   type: time_table
@@ -97,9 +97,9 @@
 - title: Technical Skills
   type: list
   contents:
-    - Programming: Python (PyTorch, NumPy, Pandas, OpenCV, Scikit-learn, Matplotlib), C/C++ (OpenGL), MATLAB, R, Java, HTML/CSS, PHP, Databases (Microsoft SQL Server, MySQL), TensorFlow, Keras, Hadoop, Spark, Git, Linux shell scripts, LaTeX (wrote > 1000 pages of math)
-    - Relevant coursework: Programming Languages, Algorithms and Data Structures, Theory of Probability and Mathematical Statistics, Inroduction to Machine Learning, Introduction to Artificial Intelligence, Natural Language Processing, Deep Learning, Introduction to Cryptography, Distributed Systems, High-Dimensional Probability in Data Science, Networks and Combinatorial Optimization, Convex Analysis and Nonsmooth Optimization, Optimal Transport, Real Analysis, Topological and Smooth Manifolds
-    - Engineering: electrical engineering, computer hardware, microcontrollers (Arduino, Raspberry Pi), servo motor actuators
+    - Programming - Python (PyTorch, NumPy, Pandas, OpenCV, Scikit-learn, Matplotlib), C/C++ (OpenGL), MATLAB, R, Java, HTML/CSS, PHP, Databases (Microsoft SQL Server, MySQL), TensorFlow, Keras, Hadoop, Spark, Git, Linux shell scripts, LaTeX (wrote > 1000 pages of math)
+    - Relevant coursework - Programming Languages, Algorithms and Data Structures, Theory of Probability and Mathematical Statistics, Inroduction to Machine Learning, Introduction to Artificial Intelligence, Natural Language Processing, Deep Learning, Introduction to Cryptography, Distributed Systems, High-Dimensional Probability in Data Science, Networks and Combinatorial Optimization, Convex Analysis and Nonsmooth Optimization, Optimal Transport, Real Analysis, Topological and Smooth Manifolds
+    - Engineering - electrical engineering, computer hardware, microcontrollers (Arduino, Raspberry Pi), servo motor actuators
 
 - title: Leadership and Awards
   type: list
