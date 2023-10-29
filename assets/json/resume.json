@@ -129,26 +129,44 @@
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "Python, C/C++, MATLAB, R, Java, HTML/CSS, PHP, Databases, TensorFlow, Keras, Hadoop, Spark, Git, Linux shell scripts, LaTeX"
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "C/C++", "Java", "R", "MATLAB"]
     },
     {
-      "name": "Engineering",
-      "level": "Electrical engineering, computer hardware, microcontrollers, servo motor actuators"
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"]
+    },
+    {
+      "name": "Big Data",
+      "level": "",
+      "keywords": ["Hadoop", "Spark"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Kazakh",
+      "fluency": "Native"
     }
   ],
   "references": [
     {
-      "name": "Prof. Kenneth Bube",
-      "reference": ""
+      "name": "Prof. Kenneth Bube"
     },
     {
-      "name": "Prof. Nurlan S. Dairbekov",
-      "reference": ""
+      "name": "Prof. Nurlan S. Dairbekov"
     },
     {
-      "name": "Prof. Gunther Uhlmann",
-      "reference": ""
+      "name": "Prof. Gunther Uhlmann"
     }
   ]
 }
