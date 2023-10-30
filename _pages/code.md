@@ -29,6 +29,8 @@ nav_order: 3
 </div>
 {% endif %}
 
+---
+
 ## Production software code
 
 {% if site.data.repositories.prod_soft_repos %}
@@ -38,6 +40,8 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+
+---
 
 ## Code for studying
 

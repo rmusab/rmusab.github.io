@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-10-30 07:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+In December 2023, our OPTIMA-2023 paper will become available [here](https://link.springer.com/book/9783031487507) :sparkles: :smile:
