@@ -1,11 +1,18 @@
 github_users:
   - rmusab
 
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+research_repos:
+  - rmusab/rlic-sqn
+  - rmusab/robo-pick-app
+  - rmusab/random-walk
+
+prod_soft_repos:
+  - rmusab/physics-lab
+  - rmusab/lexicon
+  - rmusab/tvd
+  - rmusab/examinator
+  - rmusab/extralang
+  - rmusab/cube-timer
+
+study_repos:
+  - rmusab/python-ml
