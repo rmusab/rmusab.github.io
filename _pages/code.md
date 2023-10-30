@@ -19,9 +19,7 @@ nav_order: 3
 
 ---
 
-## Selected repositories
-
-### Research code
+## Research code
 
 {% if site.data.repositories.research_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -31,7 +29,7 @@ nav_order: 3
 </div>
 {% endif %}
 
-### Production software code
+## Production software code
 
 {% if site.data.repositories.prod_soft_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -41,7 +39,7 @@ nav_order: 3
 </div>
 {% endif %}
 
-### Code for studying
+## Code for studying
 
 {% if site.data.repositories.study_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
