@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  Mathematics is a valuable endeavor
-date:   2020-11-03 07:00:00
-description: "Mathematics is the music of reason." – James Joseph Sylvester, English mathematician
+title: Mathematics is a valuable endeavor
+date: 2020-11-03 07:00:00
+description: Mathematics is the music of reason
 tags: math, science, life
 giscus_comments: true
 categories: epistemology
 ---
+
+<blockquote>
+    Mathematics is the music of reason.
+    — James Joseph Sylvester, English mathematician
+</blockquote>
 
 “How in the world could anyone prefer to have this as a profession?” my fellow freshman was thinking to himself in a large lecture room while trying to catch up with the furious pace of a calculus professor and scribble down the last couple of formulas before they get erased from the chalkboard. “Can you imagine that? This professor has been wasting
 his entire life on this nonsense!” he was talking to me in the hallway after class, while I was nodding and chuckling at this exclamation. At that time I was not even realizing that I would spent subsequent years of my life trying to make sense out of mathematics and find its true meaning and place in myself and the world.
