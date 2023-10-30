@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In December 2023, our OPTIMA-2023 paper will become available [here](https://link.springer.com/book/9783031487507) :sparkles: :smile:
+In December 2023, our [OPTIMA-2023](http://agora.guru.ru/display.php?conf=OPTIMA-2023) paper will become available [here](https://link.springer.com/book/9783031487507) :sparkles: :smile:
