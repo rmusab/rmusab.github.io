@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Code Vulnerability Detection (Cybersecurity) 
+description: Exploring key research questions in the field of code vulnerability detection. What are the challenges and future directions in ensuring software security?
+img: assets/img/cybersecurity.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Mussabayev2023-dissecting
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Reinforcement Learning Intersection Controller
+description: Exploring cutting-edge solutions for optimizing traffic control, a fundamental challenge in modern society, using the power of reinforcement learning algorithms
+img: assets/img/traffic-control.jpg
+#redirect: https://unsplash.com
 importance: 3
 category: work
 ---

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Big Data Clustering
+description: Developing effective, efficient, and highly scalable clustering algorithms for big datasets
+img: assets/img/big-data-clustering.jpg
 importance: 2
 category: work
+related_publications: Mussabayev2023-bigmeans
 giscus_comments: true
 ---
 
