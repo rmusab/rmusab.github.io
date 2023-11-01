@@ -89,6 +89,9 @@
     {%- if site.semanticscholar_id -%}
         {%- capture link -%}https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- if site.vk_username -%}
+        {%- capture link -%}https://vk.com/{{ site.semanticscholar_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.publons_id -%}
         {%- capture link -%}https://publons.com/a/{{ site.publons_id }}/{%- endcapture -%}
