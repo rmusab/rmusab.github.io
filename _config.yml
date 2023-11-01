@@ -271,8 +271,8 @@ display_categories: ['epistemology'] # these categories will be displayed on the
 
 scholar:
 
-  last_name: [Mussabayev]
-  first_name: [Ravil]
+  last_name: Mussabayev
+  first_name: [Ravil, R., R]
 
   style: apa
   locale: en
