@@ -9,7 +9,7 @@ nav_order: 5
 
 ## My courses
 
-You can find a full list of the courses that I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
+You can find a list of the courses that I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
 
 ---
 
