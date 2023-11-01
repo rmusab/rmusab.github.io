@@ -2,20 +2,20 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Explore my collection of teaching materials, resources, methods, and tips gathered from my university studies, teaching and work experience. Learn and grow with valuable insights and tools
+description: Explore my collection of teaching materials, resources, methods, and tips gathered from my university studies, as well as teaching and work experience. Learn and grow with valuable insights and tools
 nav: true
 nav_order: 5
 ---
 
 ## My courses
 
-You can find a full list of courses that I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
+You can find a full list of the courses that I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
 
 ---
 
 ## Resources
 
-In this section, you can find some useful resources that I have studied and applied in my work. Hopefully, this information will come in handy for people who would like to get acquainted with these areas and start doing research in them.
+In this section, I have curated resources that have been instrumental in my research. I hope they prove valuable for those delving into these subjects.
 
 ### Natural Language Processing (NLP)
 
