@@ -2,14 +2,16 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Here I would like to share my teaching materials, resources, methods and tips that I collected and found useful during the course of my university studies and work experience
+description: Explore my collection of teaching materials, resources, methods, and tips gathered from my university studies, teaching and work experience. Learn and grow with valuable insights and tools
 nav: true
 nav_order: 5
 ---
 
-## Teaching
+## My courses
 
 You can find a full list of courses that I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
+
+---
 
 ## Resources
 
