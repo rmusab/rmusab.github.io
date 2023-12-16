@@ -2,7 +2,7 @@
 layout: post
 title: Сотворение мира
 date: 2023-05-18 07:00:00
-description: Сотворение мира
+description: Интересный диалог
 tags: orthodoxy, philosophy
 giscus_comments: true
 categories: christianity
