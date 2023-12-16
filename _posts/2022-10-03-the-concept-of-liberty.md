@@ -29,9 +29,10 @@ In a society arranged in accordance to liberal principles, marginals are celebra
 In the Western value system, the power of money and corporate culture is very strong: jobs are a vital priority in people’s lives. Corporate life expects total conformity and lack of initiative from each individual. Breakage of norms is explained by unsuitability of them for the ever-changing modern society. Nevertheless, I believe this to be a circular argument. If the modern society is exactly defined by and emerged from the breakage of classic norms, then we cannot logically justify such a society and its moral correctness by itself. In other words, why would we need to break norms to create such a society in the first place? How would we justify the correctness and necessity of this shift?
 
 P.S.: When I first published this essay on the previous version of my website, I got the following wonderful comment that I would like preserve here:
+
 <blockquote>
 Your statements in the sixth paragraph greatly remind me of this excellent article on the Brothers Karamazov, and specifically, the idea that “without God, all things are
 permitted.”:
+</blockquote>
 
 [https://www.firstthings.com/article/2002/12/ivan-karamazovs-mistake](https://www.firstthings.com/article/2002/12/ivan-karamazovs-mistake)
-</blockquote>
