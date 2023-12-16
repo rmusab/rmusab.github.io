@@ -32,5 +32,6 @@ P.S.: When I first published this essay on the previous version of my website, I
 <blockquote>
 Your statements in the sixth paragraph greatly remind me of this excellent article on the Brothers Karamazov, and specifically, the idea that “without God, all things are
 permitted.”:
+
 [https://www.firstthings.com/article/2002/12/ivan-karamazovs-mistake](https://www.firstthings.com/article/2002/12/ivan-karamazovs-mistake)
 </blockquote>
