@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Code Vulnerability Detection (Cybersecurity) 
-description: Exploring key research questions in the field of code vulnerability detection. What are the challenges and future directions in ensuring software security?
+title: Vulnerability and Malware Detection (Cybersecurity) 
+description: Exploring key research questions in the field of cybersecurity. What are the challenges and future directions in ensuring software security?
 img: assets/img/cybersecurity.jpg
 importance: 1
 category: work
