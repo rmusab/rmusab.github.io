@@ -6,6 +6,8 @@ img: assets/img/traffic-control.jpg
 #redirect: https://unsplash.com
 importance: 3
 category: work
+related_publications: Dairbekov2018-rlic
+giscus_comments: true
 ---
 
 During my bachelor studies, I was exploring the following research questions:
