@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a [Ph.D. candidate in mathematics](https://math.washington.edu/people/ravil-mussabayev) working on the algorithmic foundations of computer science: pattern mining in big data, data science, global optimization, and natural language processing.
+I am a [PhD candidate in mathematics](https://math.washington.edu/people/ravil-mussabayev) working on the algorithmic foundations of computer science: pattern mining in big data, data science, global optimization, and natural language processing.
 
 I am also working as an AI researcher in the Moscow Software Development Tools Cloud Technology Lab at the Huawei Russian Research Institute (Moscow, Russia). I specialize in conceiving, developing, enhancing, and deploying advanced deep learning models – encompassing transformers, graph neural networks, and large language models (LLMs). My focus revolves around addressing fundamental challenges related to code refactoring, as well as vulnerability and malware detection (cybersecurity), primarily in the Java and C++ programming languages.
 
