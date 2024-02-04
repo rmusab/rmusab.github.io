@@ -1,3 +1,37 @@
+@misc{Shestov2024-finetuning,
+    abbr = {Springer},
+    title={Finetuning Large Language Models for Vulnerability Detection},
+    author={Alexey Shestov and Anton Cheshkov and Rodion Levichev and Ravil Mussabayev and Pavel Zadorozhny and Evgeny Maslov and Chibirev Vadim and Egor Bulychev},
+    year={2024},
+    eprint={2401.17010},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    abstract = {This paper presents the results of finetuning large language models (LLMs) for the task of detecting vulnerabilities in source code. We leverage WizardCoder, a recent improvement of the state-of-the-art LLM StarCoder, and adapt it for vulnerability detection through further finetuning. To accelerate training, we modify WizardCoder's training procedure, also we investigate optimal training regimes. For the imbalanced dataset with many more negative examples than positive, we also explore different techniques to improve classification performance. The finetuned WizardCoder model achieves improvement in ROC AUC and F1 measures on balanced and imbalanced vulnerability datasets over CodeBERT-like model, demonstrating the effectiveness of adapting pretrained LLMs for vulnerability detection in source code. The key contributions are finetuning the state-of-the-art code LLM, WizardCoder, increasing its training speed without the performance harm, optimizing the training procedure and regimes, handling class imbalance, and improving performance on difficult vulnerability detection datasets. This demonstrates the potential for transfer learning by finetuning large pretrained language models for specialized source code analysis tasks.},
+    preprint = {http://arxiv.org/abs/2401.17010}
+}
+
+@InProceedings{Mussabayev2023-bigmeanspar0,
+    abbr = {Springer},
+    author="Mussabayev, Ravil
+    and Mussabayev, Rustam",
+    editor="Olenev, Nicholas
+    and Evtushenko, Yuri
+    and Ja{\'{c}}imovi{\'{c}}, Milojica
+    and Khachay, Michael
+    and Malkova, Vlasta",
+    title="Optimizing Parallelization Strategies for the Big-Means Clustering Algorithm",
+    booktitle="Advances in Optimization and Applications",
+    year="2024",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="17--32",
+    doi = {10.1007/978-3-031-48751-4_2},
+    abstract="This study focuses on the optimization of the Big-means algorithm for clustering large-scale datasets, exploring three distinct parallelization strategies. We conducted extensive experiments to assess the computational efficiency, scalability, and clustering performance of each approach, revealing their benefits and limitations. The paper also delves into the trade-offs between computational efficiency and clustering quality, examining the impacts of various factors. Our insights provide practical guidance on selecting the best parallelization strategy based on available resources and dataset characteristics, contributing to a deeper understanding of parallelization techniques for the Big-means algorithm.",
+    isbn="978-3-031-48751-4",
+    html = {https://doi.org/10.1007/978-3-031-48751-4_2},
+    preprint = {https://arxiv.org/abs/2311.04517}
+}
+
 @misc{Mussabayev2023-bigmeanspar,
       abbr = {arXiv},
       title={Strategies for Parallelizing the Big-Means Algorithm: A Comprehensive Tutorial for Effective Big Data Clustering},
@@ -84,25 +118,4 @@
     abstract = {Colour-based computer vision algorithm allows to rather precisely distinguish a number of objects disposed on an input camera frame provided that their colours differ from that of a background. Once the border of an object is detected the position of its approximate mass centre may be easily obtained. That coordinate is considered within 2D frame image coming directly from the camera and is subsequently projected to the reference frame associated with the real world by making use of the pinhole camera model and homogeneous coordinates. Given appropriate real world coordinates of the object (which is believed to be put onto a flat plane) iterative Jacobian inverse method provides efficient solution to the problem of inverse kinematics. Thus derived solution is sent to the Arduino microcontroller which in its turn rotates servo joints of the arm by means of the pulse-width modulation (PWM) technique.},
     html = {https://doi.org/10.1109/ICECCO.2015.7416879},
     code = {https://github.com/rmusab/robo-pick-app}
-}
-
-@InProceedings{Mussabayev2023-bigmeanspar0,
-    author="Mussabayev, Ravil
-    and Mussabayev, Rustam",
-    editor="Olenev, Nicholas
-    and Evtushenko, Yuri
-    and Ja{\'{c}}imovi{\'{c}}, Milojica
-    and Khachay, Michael
-    and Malkova, Vlasta",
-    title="Optimizing Parallelization Strategies for the Big-Means Clustering Algorithm",
-    booktitle="Advances in Optimization and Applications",
-    year="2024",
-    publisher="Springer Nature Switzerland",
-    address="Cham",
-    pages="17--32",
-    doi = {10.1007/978-3-031-48751-4_2},
-    abstract="This study focuses on the optimization of the Big-means algorithm for clustering large-scale datasets, exploring three distinct parallelization strategies. We conducted extensive experiments to assess the computational efficiency, scalability, and clustering performance of each approach, revealing their benefits and limitations. The paper also delves into the trade-offs between computational efficiency and clustering quality, examining the impacts of various factors. Our insights provide practical guidance on selecting the best parallelization strategy based on available resources and dataset characteristics, contributing to a deeper understanding of parallelization techniques for the Big-means algorithm.",
-    isbn="978-3-031-48751-4",
-    html = {https://doi.org/10.1007/978-3-031-48751-4_2},
-    preprint = {https://arxiv.org/abs/2311.04517}
 }
