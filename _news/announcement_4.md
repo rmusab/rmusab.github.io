@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our work was recognized as the [Best Conference Paper](../assets/pdf/aciids-2024-diploma.pdf) at [ACIIDS 2024](https://aciids.pwr.edu.pl/2024/)! :sunglasses:<br>
+Our work was recognized as the [Best Conference Paper](../assets/pdf/aciids-2024-diploma.pdf) at [ACIIDS 2024](https://aciids.pwr.edu.pl/2024/)! :sunglasses:<br><br>
 
 Наша работа была признана [лучшей статьёй конференции](../assets/pdf/aciids-2024-diploma.pdf) на [ACIIDS 2024](https://aciids.pwr.edu.pl/2024/)! :sunglasses:
