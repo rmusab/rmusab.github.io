@@ -9,7 +9,7 @@ related_publications: Mussabayev2023-bigmeans, Mussabayev2023-kmeanscomp, Mussab
 giscus_comments: true
 ---
 
-During my Ph.D. studies, I am trying to answer the following research questions:
+During my PhD studies, I explored the following research questions:
 
 1. Is it possible to obtain an accurate clustering solution using only a small fraction of the available points in a big dataset?
 2. What would be a more precise and practically useful definition of big data?

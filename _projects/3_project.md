@@ -10,7 +10,7 @@ related_publications: Dairbekov2018-rlic
 giscus_comments: true
 ---
 
-During my bachelor studies, I was exploring the following research questions:
+During my bachelor studies, I investigated the following research questions:
 
 1. Can a single road intersection be effectively managed by a system based on reinforcement learning?
 2. What would be the optimal choice of a model and a reward function to ensure the minimal congestion at the road intersection at all times?
