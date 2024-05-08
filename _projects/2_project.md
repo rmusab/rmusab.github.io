@@ -14,5 +14,5 @@ During my Ph.D. studies, I am trying to answer the following research questions:
 1. Is it possible to obtain an accurate clustering solution using only a small fraction of the available points in a big dataset?
 2. What would be a more precise and practically useful definition of big data?
 3. Is it necessary to employ more complex hybrid algorithms in the search for more accurate clustering solutions? Can we follow the ``less is more'' principle in designing big data clustering algorithms instead?
-4. Can the decomposition principle be used to achieve global optimization properties in the big data clustering problem?
-5. Is it possible to develop a simple scalable parallelizable big data clustering that is more effective and efficient than all the state-of-the-art hybrid approaches?
+4. Can a decomposition principle be used to achieve global optimization properties in the big data clustering problem?
+5. Is it possible to develop a simple, scalable, and parallelizable big data clustering algorithm that is more effective and efficient than the existing state-of-the-art hybrid approaches?
