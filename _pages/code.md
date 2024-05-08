@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## My GitHub profile
+## My GitHub Profile
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -19,7 +19,7 @@ nav_order: 3
 
 ---
 
-## Research code
+## Research Code
 
 {% if site.data.repositories.research_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -31,7 +31,7 @@ nav_order: 3
 
 ---
 
-## Production software code
+## Production Software Code
 
 {% if site.data.repositories.prod_soft_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -43,7 +43,7 @@ nav_order: 3
 
 ---
 
-## Code for studying
+## Code for Studying
 
 {% if site.data.repositories.study_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
