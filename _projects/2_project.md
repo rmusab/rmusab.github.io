@@ -4,7 +4,7 @@ title: Big Data Clustering
 description: Developing effective, efficient, and highly scalable clustering algorithms for big datasets
 img: assets/img/big-data-clustering.png
 importance: 2
-category: work
+category: Work
 related_publications: Mussabayev2023-bigmeans, Mussabayev2023-kmeanscomp, Mussabayev2023-bigmeanspar, Mussabayev2023-bigmeanspar0, Mussabayev2024-superior
 giscus_comments: true
 ---

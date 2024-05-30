@@ -4,7 +4,7 @@ title: Vulnerability and Malware Detection (Cybersecurity)
 description: Exploring key research questions in the field of cybersecurity. What are the challenges and future directions in ensuring software security?
 img: assets/img/cybersecurity.jpg
 importance: 1
-category: work
+category: Work
 related_publications: Mussabayev2023-dissecting, Shestov2024-finetuning
 giscus_comments: true
 ---

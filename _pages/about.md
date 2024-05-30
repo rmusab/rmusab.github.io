@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I hold a [Doctor of Philosophy (PhD)](https://math.washington.edu/people/ravil-mussabayev) and Master of Science (MSc) degrees in Mathematics from the University of Washington. I earned my Bachelor's degree in Mathematics and Computer Science from the Kazakh-British Technical University. I work on the algorithmic foundations of computer science: clustering, big data technologies, global optimization, metaheuristics, streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
+I hold a [Doctor of Philosophy (PhD)](https://math.washington.edu/people/ravil-mussabayev) and Master of Science (MSc) degrees in Mathematics from the University of Washington. I earned my Bachelor of Science (BSc) degree in Mathematics and Computer Science from the Kazakh-British Technical University. I work on the algorithmic foundations of computer science: clustering, big data technologies, global optimization, metaheuristics, streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
 
 Currently, I am working as an AI researcher in the Moscow Software Development Tools Cloud Technology Lab at the Huawei Russian Research Institute (Moscow, Russia). Here I develop and deploy advanced deep learning models, including transformers, graph neural networks, and large language models (LLMs), to tackle fundamental challenges in context-aware code tasks, such as code generation, vulnerability detection, and malware detection in Java and C++ source code.
 

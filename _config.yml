@@ -286,7 +286,8 @@ scholar:
   sort_by: date
   order: descending
   type_aliases: {inproceedings: incollection}
-  type_order: [article, unpublished, incollection, report]
+#  type_order: [article, unpublished, incollection, report]
+  type_order: [report, unpublished, incollection, article]
   type_names: {unpublished: Working Papers, report: Technical Reports, techreport: Technical Reports, article: Journal Articles, incollection: Books & Conferences}
 
   bibtex_filters: [latex, smallcaps, superscript]

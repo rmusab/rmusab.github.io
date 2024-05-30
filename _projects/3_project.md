@@ -5,7 +5,7 @@ description: Exploring cutting-edge solutions for optimizing traffic control, a 
 img: assets/img/traffic-control.jpg
 #redirect: https://unsplash.com
 importance: 3
-category: work
+category: Work
 related_publications: Dairbekov2018-rlic
 giscus_comments: true
 ---
