@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Google Scholar H-index &mdash; **4**
+description: Google Scholar H-index &mdash; <b>4</b>
 nav: true
 nav_order: 1
 ---
