@@ -120,8 +120,29 @@
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+<!--          <div class="periodical">-->
+<!--            {{ periodical | strip }}-->
+<!--          </div>-->
           <div class="periodical">
-            {{ periodical | strip }}
+            {% if entry.type == "article" %}
+            <em>{{entry.journaltitle}}</em>
+            {% elsif entry.type == "inproceedings" and entry.conference %}
+            <em>Presented in {{entry.eventtitle}}</em>
+            {% elsif entry.type == "incollection" %}
+            <em>In: {{entry.booktitle}}</em>
+            {% elsif entry.type == "inproceedings" %}
+            <em>{{entry.pub}}</em>
+            {% elsif entry.type == "unpublished" %}
+            <em>Working paper</em>
+            {% elsif entry.type == "report" or entry.type == "techreport" %}
+            <em>{{entry.study}}</em>
+            {% endif %}
+            {% if entry.date %}
+            {{ entry.date }}
+            {% endif %}
+            {% if entry.status %}
+            <em>({{ entry.status) }})</em>
+            {% endif %}
           </div>
         {%- endif %}
         

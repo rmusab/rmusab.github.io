@@ -1,0 +1,152 @@
+% --- My Articles ---
+
+@inproceedings{Mussabayev2024-superior,
+    abbr={LNAI},
+    title={Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means},
+    author={Rustam Mussabayev and Ravil Mussabayev},
+    year={2024},
+    eprint={2403.18766},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    abstract={This paper introduces a novel K-means clustering algorithm, an advancement on the conventional Big-means methodology. The proposed method efficiently integrates parallel processing, stochastic sampling, and competitive optimization to create a scalable variant designed for big data applications. It addresses scalability and computation time challenges typically faced with traditional techniques. The algorithm adjusts sample sizes dynamically for each worker during execution, optimizing performance. Data from these sample sizes are continually analyzed, facilitating the identification of the most efficient configuration. By incorporating a competitive element among workers using different sample sizes, efficiency within the Big-means algorithm is further stimulated. In essence, the algorithm balances computational time and clustering quality by employing a stochastic, competitive sampling strategy in a parallel computing setting.},
+    preprint={https://arxiv.org/abs/2403.18766},
+    booktitle={Intelligent Information and Database Systems},
+    publisher={Springer Nature},
+    series={Lecture Notes in Artificial Intelligence},
+    address={Ras Al Khaimah, UAE}
+}
+
+@inproceedings{Mussabayev2023-bigmeanspar0,
+    abbr={SpringerNature},
+    author={Mussabayev, Ravil and Mussabayev, Rustam},
+    editor={Olenev, Nicholas and Evtushenko, Yuri and Ja{\'{c}}imovi{\'{c}}, Milojica and Khachay, Michael and Malkova, Vlasta},
+    title={Optimizing Parallelization Strategies for the Big-Means Clustering Algorithm},
+    booktitle={Advances in Optimization and Applications},
+    year={2024},
+    publisher={Springer Nature Switzerland},
+    address={Petrovac, Montenegro},
+    pages={17--32},
+    doi={10.1007/978-3-031-48751-4_2},
+    abstract={This study focuses on the optimization of the Big-means algorithm for clustering large-scale datasets, exploring three distinct parallelization strategies. We conducted extensive experiments to assess the computational efficiency, scalability, and clustering performance of each approach, revealing their benefits and limitations. The paper also delves into the trade-offs between computational efficiency and clustering quality, examining the impacts of various factors. Our insights provide practical guidance on selecting the best parallelization strategy based on available resources and dataset characteristics, contributing to a deeper understanding of parallelization techniques for the Big-means algorithm.},
+    isbn={978-3-031-48751-4},
+    html={https://doi.org/10.1007/978-3-031-48751-4_2},
+    preprint={https://arxiv.org/abs/2311.04517}
+}
+
+@article{Mussabayev2023-bigmeanspar,
+    abbr={Mathematics},
+    title={High-Performance Hybrid Algorithm for Minimum Sum-of-Squares Clustering of Infinitely Tall Data},
+    author={Ravil Mussabayev and Rustam Mussabayev},
+    year={2024},
+    eprint={2311.04517},
+    archivePrefix={arXiv},
+    primaryClass={cs.DC},
+    abstract={This paper introduces a novel formulation of the clustering problem, namely the Minimum Sum-of-Squares Clustering of Infinitely Tall Data (MSSC-ITD), and presents HPClust, an innovative set of hybrid parallel approaches for its effective solution. By utilizing modern high-performance computing techniques, HPClust enhances key clustering metrics: effectiveness, computational efficiency, and scalability. In contrast to vanilla data parallelism, which only accelerates processing time through the MapReduce framework, our approach unlocks superior performance by leveraging the multi-strategy competitive-cooperative parallelism and intricate properties of the objective function landscape. Unlike other available algorithms that struggle to scale, our algorithm is inherently parallel in nature, improving solution quality through increased scalability and parallelism, and outperforming even advanced algorithms designed for small and medium-sized datasets. Our evaluation of HPClust, featuring four parallel strategies, demonstrates its superiority over traditional and cutting-edge methods by offering better performance in the key metrics. These results also show that parallel processing not only enhances the clustering efficiency, but the accuracy as well. Additionally, we explore the balance between computational efficiency and clustering quality, providing insights into optimal parallel strategies based on dataset specifics and resource availability. This research advances our understanding of parallelism in clustering algorithms, demonstrating that a judicious hybridization of advanced parallel approaches yields optimal results for MSSC-ITD. Experiments on synthetic data further confirm HPClust's exceptional scalability and robustness to noise.},
+    preprint={https://arxiv.org/abs/2311.04517},
+    note={Preprint submitted to ``Mathematics''},
+    journal={Mathematics},
+	status={Under review}
+}
+
+@article{Mussabayev2023-kmeanscomp,
+    abbr={arXiv},
+    title={Comparative Analysis of Optimization Strategies for K-means Clustering in Big Data Contexts: A Review},
+    author={Ravil Mussabayev and Rustam Mussabayev},
+    year={2024},
+    eprint={2310.09819},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    abstract={This paper presents a comparative analysis of different optimization techniques for the K-means algorithm in the context of big data. K-means is a widely used clustering algorithm, but it can suffer from scalability issues when dealing with large datasets. The paper explores different approaches to overcome these issues, including parallelization, approximation, and sampling methods. The authors evaluate the performance of various clustering techniques on a large number of benchmark datasets, comparing them according to the dominance criterion provided by the "less is more" approach (LIMA), i.e., simultaneously along the dimensions of speed, clustering quality, and simplicity. The results show that different techniques are more suitable for different types of datasets and provide insights into the trade-offs between speed and accuracy in K-means clustering for big data. Overall, the paper offers a comprehensive guide for practitioners and researchers on how to optimize K-means for big data applications.},
+    preprint={https://arxiv.org/abs/2310.09819},
+    note={Preprint submitted to ``To Be Defined''},
+    journal={To Be Defined}
+}
+
+@article{Mussabayev2023-bigmeans,
+    abbr={PattRecog},
+    title={How to Use K-means for Big Data Clustering?},
+    journal={Pattern Recognition},
+    volume={137},
+    pages={109269},
+    year={2023},
+    issn={0031-3203},
+    doi={https://doi.org/10.1016/j.patcog.2022.109269},
+    url={https://www.sciencedirect.com/science/article/pii/S0031320322007488},
+    author={Rustam Mussabayev and Nenad Mladenovic and Bassem Jarboui and Ravil Mussabayev},
+    keywords={Big data, Clustering, Minimum sum-of-squares, Divide and conquer algorithm, Decomposition, K-means, K-means++, Global optimization, Unsupervised learning},
+    abstract={K-means plays a vital role in data mining and is the simplest and most widely used algorithm under the Euclidean Minimum Sum-of-Squares Clustering (MSSC) model. However, its performance drastically drops when applied to vast amounts of data. Therefore, it is crucial to improve K-means by scaling it to big data using as few of the following computational resources as possible: data, time, and algorithmic ingredients. We propose a new parallel scheme of using K-means and K-means++ algorithms for big data clustering that satisfies the properties of a “true big data” algorithm and outperforms the classical and recent state-of-the-art MSSC approaches in terms of solution quality and runtime. The new approach naturally implements global search by decomposing the MSSC problem without using additional metaheuristics. This work shows that data decomposition is the basic approach to solve the big data clustering problem. The empirical success of the new algorithm allowed us to challenge the common belief that more data is required to obtain a good clustering solution. Moreover, the present work questions the established trend that more sophisticated hybrid approaches and algorithms are required to obtain a better clustering solution.},
+    preprint={https://arxiv.org/abs/2204.07485},
+    code={https://github.com/R-Mussabayev/bigmeans},
+    html={https://doi.org/10.1016/j.patcog.2022.109269},
+    eprint={2204.07485},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    preprint={https://arxiv.org/abs/2204.07485}
+}
+
+@inproceedings{Dairbekov2018-rlic,
+    abbr={IEEEXplore},
+    author={Tolebi, Gulnur and Dairbekov, Nurlan S. and Kurmankhojayev, Daniyar and Mussabayev, Ravil},
+    booktitle={2018 14th International Conference on Electronics Computer and Computation (ICECCO)},
+    title={Reinforcement Learning Intersection Controller},
+    year={2018},
+    volume={},
+    number={},
+    pages={206-212},
+    doi={10.1109/ICECCO.2018.8634692},
+    abstract={This paper presents an online model-free adaptive traffic signal controller for an isolated intersection using a Reinforcement Learning (RL) approach. We base our solution on the Q-learning algorithm with action-value approximation. In contrast with other studies in the field, we use the queue length in adddition to the average delay as a measure of performance. Also, the number of queuing vehicles and the green phase duration in four directions are aggregated to represent a state. The duration of phases is a precise value for the nonconflicting directions. Therefore, cycle length is non-fixed. Finally, we analyze and update the equilibrium and queue reduction terms in our previous equation of an immediate reward. Also, the delay based reward is tested in the given control system. The performance of the proposed method is compared with an optimal symmetric fixed signal plan.},
+    code={https://github.com/rmusab/rlic-sqn},
+    html={https://doi.org/10.1109/ICECCO.2018.8634692}
+}
+
+@inproceedings{Mussabayev2015-roboticarm,
+    abbr={IEEEXplore},
+    author={Mussabayev, Ravil},
+    booktitle={2015 Twelve International Conference on Electronics Computer and Computation (ICECCO)},
+    title={Colour-based object detection, inverse kinematics algorithms and pinhole camera model for controlling robotic arm movement system},
+    year={2015},
+    pages={1-9},
+    doi={10.1109/ICECCO.2015.7416879},
+    abstract={Colour-based computer vision algorithm allows to rather precisely distinguish a number of objects disposed on an input camera frame provided that their colours differ from that of a background. Once the border of an object is detected the position of its approximate mass centre may be easily obtained. That coordinate is considered within 2D frame image coming directly from the camera and is subsequently projected to the reference frame associated with the real world by making use of the pinhole camera model and homogeneous coordinates. Given appropriate real world coordinates of the object (which is believed to be put onto a flat plane) iterative Jacobian inverse method provides efficient solution to the problem of inverse kinematics. Thus derived solution is sent to the Arduino microcontroller which in its turn rotates servo joints of the arm by means of the pulse-width modulation (PWM) technique.},
+    html={https://doi.org/10.1109/ICECCO.2015.7416879},
+    code={https://github.com/rmusab/robo-pick-app}
+}
+
+
+% --- My Preprints ---
+
+@unpublished{Mussabayev2024-wrdscore,
+	abbr={arXiv},
+    title={WRDScore: New Metric for Evaluation of Natural Language Generation Models}, 
+    author={Ravil Mussabayev},
+    year={2024},
+    eprint={2405.19220},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+	abstract={The problem of natural language generation, and, more specifically, method name prediction, faces significant difficulties when proposed models need to be evaluated on test data. Such a metric would need to consider the versatility with which a single method can be named, with respect to both semantics and syntax. Measuring the direct overlap between the predicted and reference (true) sequences will not be able to capture these subtleties. Other existing embedding based metrics either do not measure precision and recall or impose strict unrealistic assumptions on both sequences. To address these issues, we propose a new metric that, on the one hand, is very simple and lightweight, and, on the other hand, is able to calculate precision and recall without resorting to any assumptions while obtaining good performance with respect to the human judgement.},
+	preprint={https://arxiv.org/abs/2405.19220}
+}
+
+@report{Mussabayev2023-dissecting,
+    abbr={arXiv},
+    title={Dissecting Code Vulnerabilities: Insights from C++ and Java Vulnerability Analysis with ReVeal Model},
+    author={Ravil Mussabayev},
+    year={2023},
+    eprint={2307.11454},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    abstract={This study presents an analysis conducted on a real-world dataset of Java vulnerability-fixing commits. The dataset consists of commits with varying numbers of modified methods, leading to a natural partitioning based on the number of changed functions. The research aims to address several key questions. Firstly, the study investigates the optimal parameter selection for ReVeal, a state-of-the-art model, in order to achieve its best performance. Secondly, it explores the contributions of different parts of the Java dataset towards vulnerability detection. Lastly, the study evaluates the model's performance in separating close-to-vulnerable methods (vulnerable methods and their fixed versions) from randomly selected safe code, as well as the finer separation of vulnerable methods from their fixed versions within the set of close-to-vulnerable methods. The research employs a series of experiments to answer these questions and derive meaningful insights.},
+    preprint={https://arxiv.org/abs/2307.11454}
+}
+
+@unpublished{Shestov2024-finetuning,
+    abbr={arXiv},
+    title={Finetuning Large Language Models for Vulnerability Detection},
+    author={Alexey Shestov and Rodion Levichev and Ravil Mussabayev and Evgeny Maslov and Anton Cheshkov and Pavel Zadorozhny},
+    year={2024},
+    eprint={2401.17010},
+    archivePrefix={arXiv},
+    primaryClass={cs.CR},
+    abstract={This paper presents the results of finetuning large language models (LLMs) for the task of detecting vulnerabilities in source code. We leverage WizardCoder, a recent improvement of the state-of-the-art LLM StarCoder, and adapt it for vulnerability detection through further finetuning. To accelerate training, we modify WizardCoder's training procedure, also we investigate optimal training regimes. For the imbalanced dataset with many more negative examples than positive, we also explore different techniques to improve classification performance. The finetuned WizardCoder model achieves improvement in ROC AUC and F1 measures on balanced and imbalanced vulnerability datasets over CodeBERT-like model, demonstrating the effectiveness of adapting pretrained LLMs for vulnerability detection in source code. The key contributions are finetuning the state-of-the-art code LLM, WizardCoder, increasing its training speed without the performance harm, optimizing the training procedure and regimes, handling class imbalance, and improving performance on difficult vulnerability detection datasets. This demonstrates the potential for transfer learning by finetuning large pretrained language models for specialized source code analysis tasks.},
+    preprint={http://arxiv.org/abs/2401.17010}
+}
