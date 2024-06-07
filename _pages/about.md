@@ -15,11 +15,40 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I hold a [Doctor of Philosophy (PhD)](https://math.washington.edu/people/ravil-mussabayev) and Master of Science (MSc) degrees in Mathematics from the University of Washington. I earned my Bachelor of Science (BSc) degree in Mathematics and Computer Science from the Kazakh-British Technical University. I work on the algorithmic foundations of computer science: clustering, big data technologies, global optimization, soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
+I am a lifelong learner with interests spanning from computer science to theology, dedicated to fulfilling God's global plan of love in the world.
 
-Currently, I am working as an AI researcher in the Moscow Software Development Tools Cloud Technology Lab at the Huawei Russian Research Institute (Moscow, Russia). Here I develop and deploy advanced deep learning models, including transformers, graph neural networks, and large language models (LLMs), to tackle fundamental challenges in context-aware code tasks, such as code generation, vulnerability detection, and malware detection in Java and C++ source code.
+- **Education:**
+    - Doctor of Philosophy (PhD) in Mathematics, University of Washington
+    - Master of Science (MSc) in Mathematics, University of Washington
+    - Bachelor of Science (BSc) in Mathematical and Computer Modeling, Kazakh-British Technical University
 
-As a lifelong learner with passions spanning from theology to computer science, I regularly share [essays (blog posts)]({{ site.baseurl }}/blog/) on fundamental topics that shape our understanding of the world. I also post shorter, daily reflections in Russian on my Telegram channel: ["Богословские исследования. Душеполезная философия"](https://t.me/ravil_mussabayev). Feel free to explore my writings and join the conversation on Telegram. I would love to connect with fellow thinkers and enthusiasts!
+- **Current Position:**
+    - Research Scientist, Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia
+    - Focus on deploying advanced deep learning models:
+        - Transformers
+        - Graph neural networks (GNNs)
+        - Large language models (LLMs)
+    - Application areas include:
+        - Code generation
+        - Vulnerability detection
+        - Malware detection in Java and C++ source code
+
+- **Research Interests:**
+    - Algorithmic foundations of computer science:
+        - Clustering
+        - Big data technologies
+        - Global optimization
+        - Soft computing (metaheuristics)
+        - Streaming algorithms
+        - Distributed and parallel algorithms
+        - Machine learning
+        - Reinforcement learning
+        - Natural language processing
+        - AI for code
+
+- **Outreach:**
+    - Regularly publish [essays (blog posts)]({{ site.baseurl }}/blog/) on fundamental topics in theology and computer science
+    - Post daily reflections in Russian on the Telegram channel: ["Богословские исследования. Душеполезная философия"](https://t.me/ravil_mussabayev)
 
 ---
 
@@ -30,7 +59,7 @@ As a lifelong learner with passions spanning from theology to computer science, 
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я получил степень [доктора философии (PhD)](https://math.washington.edu/people/ravil-mussabayev) по математике (кандидата физико-математических наук) и магистра математики в Вашингтонском университете (University of Washington), степень бакалавра по математике и компьютерным наукам &mdash; в Казахстанско-Британском техническом университете. Моя работа посвящена алгоритмическим основам информатики: кластеризация, технологии больших данных, глобальная оптимизация, мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка, ИИ для программирования.
+Я получил степень [доктора философии (PhD)](https://math.washington.edu/people/ravil-mussabayev) по математике (кандидата физико-математических наук) и магистра математики в Вашингтонском университете (University of Washington), степень бакалавра по математическому и компьютерному моделированию &mdash; в Казахстанско-Британском техническом университете. Моя работа посвящена алгоритмическим основам информатики: кластеризация, технологии больших данных, глобальная оптимизация, мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка, ИИ для программирования.
 
 Сейчас я занимаюсь исследованиями в области искусственного интеллекта в Московской лаборатории облачных технологий и инструментов разработки программного обеспечения при Российском научно-исследовательском институте Huawei (Москва, Россия). Здесь я разрабатываю и внедряю передовые модели глубокого обучения, включая трансформеры, графовые нейронные сети и крупные языковые модели, для решения фундаментальных задач, связанных с учётом контекста кода, таких как генерация кода, выявление уязвимостей и обнаружение вредоносного программного обеспечения в исходном коде Java и C++.
 
