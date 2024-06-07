@@ -73,3 +73,5 @@ I am a computer scientist and mathematician with interests spanning from artific
 
 - Регулярно делюсь своими [эссе (блог-постами)]({{ site.baseurl }}/blog/), написанными на фундаментальные темы, которые формируют наше понимание мира
 - Публикую короткие ежедневные размышления на русском языке в своём Telegram-канале: ["Богословские исследования. Душеполезная философия"](https://t.me/ravil_mussabayev)
+
+---
