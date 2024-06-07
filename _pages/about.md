@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a lifelong learner with interests spanning from computer science to theology, dedicated to fulfilling God's global plan of love in the world.
+I am a computer scientist and mathematician with interests spanning from artificial intelligence to theology, dedicated to fulfilling God's global plan of love in the world.
 
 - **Education:**
     - Doctor of Philosophy (PhD) in Mathematics, University of Washington
@@ -24,27 +24,13 @@ I am a lifelong learner with interests spanning from computer science to theolog
 
 - **Current Position:**
     - Research Scientist, Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia
-    - Focus on deploying advanced deep learning models:
-        - Transformers
-        - Graph neural networks (GNNs)
-        - Large language models (LLMs)
+    - Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs)
     - Application areas include:
         - Code generation
-        - Vulnerability detection
-        - Malware detection in Java and C++ source code
+        - Vulnerability detection in Java and C++ source code
 
 - **Research Interests:**
-    - Algorithmic foundations of computer science:
-        - Clustering
-        - Big data technologies
-        - Global optimization
-        - Soft computing (metaheuristics)
-        - Streaming algorithms
-        - Distributed and parallel algorithms
-        - Machine learning
-        - Reinforcement learning
-        - Natural language processing
-        - AI for code
+    - Algorithmic foundations of computer science: clustering, big data technologies, global optimization, soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
 
 - **Outreach:**
     - Regularly publish [essays (blog posts)]({{ site.baseurl }}/blog/) on fundamental topics in theology and computer science
@@ -59,8 +45,23 @@ I am a lifelong learner with interests spanning from computer science to theolog
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я получил степень [доктора философии (PhD)](https://math.washington.edu/people/ravil-mussabayev) по математике (кандидата физико-математических наук) и магистра математики в Вашингтонском университете (University of Washington), степень бакалавра по математическому и компьютерному моделированию &mdash; в Казахстанско-Британском техническом университете. Моя работа посвящена алгоритмическим основам информатики: кластеризация, технологии больших данных, глобальная оптимизация, мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка, ИИ для программирования.
+Я — учёный в области компьютерных наук и математики, с интересами простирающимися от искусственного интеллекта до богословия, который посвятил себя исполнению глобального Божественного замысла любви в мире.
 
-Сейчас я занимаюсь исследованиями в области искусственного интеллекта в Московской лаборатории облачных технологий и инструментов разработки программного обеспечения при Российском научно-исследовательском институте Huawei (Москва, Россия). Здесь я разрабатываю и внедряю передовые модели глубокого обучения, включая трансформеры, графовые нейронные сети и крупные языковые модели, для решения фундаментальных задач, связанных с учётом контекста кода, таких как генерация кода, выявление уязвимостей и обнаружение вредоносного программного обеспечения в исходном коде Java и C++.
+- **Образование:**
+    - Доктор философии (PhD) по математике (кандидат физико-математических наук), Вашингтонский университет
+    - Магистр наук по математике, Вашингтонский университет
+    - Бакалавр наук (BSc) в области математического и компьютерного моделирования, Казахстанско-Британский технический университет
 
-Как человек, стремящийся к постоянному самообразованию и увлекающийся различными областями от теологии до компьютерных наук, я регулярно делюсь своими [эссе (блог-постами)]({{ site.baseurl }}/blog/), написанными на фундаментальные темы, которые формируют наше понимание мира. Также я публикую короткие ежедневные размышления на русском языке в своём Telegram-канале: ["Богословские исследования. Душеполезная философия"](https://t.me/ravil_mussabayev). Приглашаю вас ознакомиться с моими статьями и присоединиться к обсуждению в Telegram-канале. С удовольствием пообщаюсь с единомышленниками и энтузиастами!
+- **Текущая должность:**
+    - Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия
+    - Сфера деятельности: разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs)
+    - Прикладные области включают:
+        - Генерация кода
+        - Обнаружение уязвимостей в исходном коде Java и C++
+
+- **Научные интересы:**
+    - Алгоритмические основы компьютерных наук: кластеризация, технологии больших данных, глобальная оптимизация, мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка, ИИ для программирования.
+
+- **Взаимодействие с миром:**
+    - Регулярно делюсь своими [эссе (блог-постами)]({{ site.baseurl }}/blog/), написанными на фундаментальные темы, которые формируют наше понимание мира
+    - Публикую короткие ежедневные размышления на русском языке в своём Telegram-канале: ["Богословские исследования. Душеполезная философия"](https://t.me/ravil_mussabayev)
