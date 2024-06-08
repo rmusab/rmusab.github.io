@@ -9,7 +9,65 @@ nav_order: 5
 
 ## My Courses
 
-You can find a list of the courses I taught at the University of Washington [here](https://math.washington.edu/people/ravil-mussabayev).
+You can find my University of Washington profile with a list of courses [here](https://math.washington.edu/people/ravil-mussabayev).
+
+### University of Washington (2018-2022)
+
+- Spring 2022 (grading)
+  - [MATH 409 A: Discrete Optimization](https://math.washington.edu/courses/2022/spring/math/409/a)  
+
+- Winter 2022 (grading)
+  - [MATH 407 A: Linear Optimization](https://math.washington.edu/courses/2022/winter/math/407/a) 
+
+- Autumn 2021 (grading)
+  - [MATH 407 B: Linear Optimization](https://math.washington.edu/courses/2021/autumn/math/407/b)
+
+- Summer 2021 Full-term (instructor for a full course)
+  - [MATH 308 A: Matrix Algebra with Applications](https://math.washington.edu/courses/2021/summer/math/308/a)
+
+- Winter 2021
+  - [MATH 307 BA: Introduction to Differential Equations](https://math.washington.edu/courses/2021/winter/math/307/ba)
+  - [MATH 307 BB: Introduction to Differential Equations](https://math.washington.edu/courses/2021/winter/math/307/bb)
+  - [MATH 307 BC: Introduction to Differential Equations](https://math.washington.edu/courses/2021/winter/math/307/bc)
+
+- Autumn 2020
+  - [MATH 126 DC: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2020/autumn/math/126/dc)
+  - [MATH 126 DD: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2020/autumn/math/126/dd)
+
+- Summer 2020 Full-term (instructor for a full course)
+  - [MATH 307 D: Introduction to Differential Equations](https://math.washington.edu/courses/2020/summer/math/307/d)
+
+- Spring 2020
+  - [MATH 125 CA: Calculus with Analytic Geometry II](https://math.washington.edu/courses/2020/spring/math/125/ca)
+  - [MATH 125 CB: Calculus with Analytic Geometry II](https://math.washington.edu/courses/2020/spring/math/125/cb)
+
+- Winter 2020
+  - [MATH 120 BC: Precalculus](https://math.washington.edu/courses/2020/winter/math/120/bc)
+
+- Autumn 2019
+  - [MATH 126 GC: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2019/autumn/math/126/gc)
+  - [MATH 126 GD: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2019/autumn/math/126/gd)
+
+- Summer 2019 (grading)
+  - [MATH 327 B: Introductory Real Analysis I](https://math.washington.edu/courses/2019/summer/math/327/b)
+
+- Spring 2019 
+  - [MATH 126 FA: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2019/spring/math/126/fa)
+  - [MATH 126 FB: Calculus with Analytic Geometry III](https://math.washington.edu/courses/2019/spring/math/126/fb)
+
+- Winter 2019
+  - [MATH 125 GA: Calculus with Analytic Geometry II](https://math.washington.edu/courses/2019/winter/math/125/ga)
+  - [MATH 125 GB: Calculus with Analytic Geometry II](https://math.washington.edu/courses/2019/winter/math/125/gb)
+
+- Autumn 2018
+  - [MATH 124 EA: Calculus with Analytic Geometry I](https://math.washington.edu/courses/2018/autumn/math/124/ea)
+  - [MATH 124 EB: Calculus with Analytic Geometry I](https://math.washington.edu/courses/2018/autumn/math/124/eb)
+
+### Kazakh-British Technical University (2017-2018)
+
+- Calculus I
+- Calculus II
+- Calculus III
 
 ---
 
