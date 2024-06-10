@@ -75,6 +75,12 @@ You can find my University of Washington profile with a list of courses [here](h
 
 In this section, I have curated resources that have been instrumental in my research. The aim is to provide valuable resources for those exploring these subjects independently.
 
+### General Machine Learning & Theory
+
+- Yandex's online [machine learning textbook](https://education.yandex.ru/handbook/ml) is designed for those who are not afraid of mathematics and want to delve into ML technologies, covering classical theory to cutting-edge topics, with new chapters to be added regularly.
+
+- [A visual introduction to information theory](https://colah.github.io/posts/2015-09-Visual-Information/). This post explores the fundamentals of information theory, including optimal encoding, entropy, cross-entropy, mutual information, and other essential concepts that underpin how machine learning models learn from data.
+
 ### Natural Language Processing (NLP)
 
 - A wonderful [introductory course on NLP](https://lena-voita.github.io/nlp_course.html) from [Lena Voita](https://lena-voita.github.io/). It covers basic topics in a very beginner-friendly and visual format. Moreover, each chapter contains research-oriented questions that can inspire a reader to think about the learned material in novel ways.
@@ -85,10 +91,6 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - A [blog post](https://lena-voita.github.io/posts/acl19_heads.html) by Lena digging into the nuts and bolts of attention heads in Transformer models.
 
-- Yandex's online [machine learning textbook](https://education.yandex.ru/handbook/ml) is designed for those who are not afraid of mathematics and want to delve into ML technologies, covering classical theory to cutting-edge topics, with new chapters to be added regularly.
-
 - A [video course on NLP from Standford University](https://youtu.be/8rXD5-xhemo) (CS224N, Winter 2019). It can be used as a good theoretical introduction into the basics of NLP.
-
-- [A visual introduction to information theory](https://colah.github.io/posts/2015-09-Visual-Information/). This post explores the fundamentals of information theory, including optimal encoding, entropy, cross-entropy, mutual information, and other essential concepts that underpin how NLP models learn from data.
 
 - A [great resource](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) for deeper understanding of how LSTMs work with pleasant and informative illustrations.
