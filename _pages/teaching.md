@@ -81,6 +81,10 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - [A visual introduction to information theory](https://colah.github.io/posts/2015-09-Visual-Information/). This post explores the fundamentals of information theory, including optimal encoding, entropy, cross-entropy, mutual information, and other essential concepts that underpin how machine learning models learn from data.
 
+- [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/).
+
+- [Matrix multiplication](https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/) as two kinds of linear combinations (row-wise and column-wise).
+
 ### Natural Language Processing (NLP)
 
 - A wonderful [introductory course on NLP](https://lena-voita.github.io/nlp_course.html) from [Lena Voita](https://lena-voita.github.io/). It covers basic topics in a very beginner-friendly and visual format. Moreover, each chapter contains research-oriented questions that can inspire a reader to think about the learned material in novel ways.
