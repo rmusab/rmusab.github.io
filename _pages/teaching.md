@@ -98,3 +98,9 @@ In this section, I have curated resources that have been instrumental in my rese
 - A [video course on NLP from Standford University](https://youtu.be/8rXD5-xhemo) (CS224N, Winter 2019). It can be used as a good theoretical introduction into the basics of NLP.
 
 - A [great resource](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) for deeper understanding of how LSTMs work with pleasant and informative illustrations.
+
+### Multimodal Learning
+
+- [Contrastive loss](https://gombru.github.io/2019/04/03/ranking_loss/) for multimodal retrieval.
+
+- A great [blog post](https://huyenchip.com/2023/10/10/multimodal.html) on Multimodality and Large Multimodal Models (LMMs).
