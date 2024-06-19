@@ -129,13 +129,13 @@
 
 @report{Mussabayev2023-dissecting,
     abbr={arXiv},
-    title={Dissecting Code Vulnerabilities: Insights from C++ and Java Vulnerability Analysis with ReVeal Model},
+    title={Structure-Aware Code Vulnerability Analysis With Graph Neural Networks},
     author={Ravil Mussabayev},
     year={2023},
     eprint={2307.11454},
     archivePrefix={arXiv},
     primaryClass={cs.CR},
-    abstract={This study presents an analysis conducted on a real-world dataset of Java vulnerability-fixing commits. The dataset consists of commits with varying numbers of modified methods, leading to a natural partitioning based on the number of changed functions. The research aims to address several key questions. Firstly, the study investigates the optimal parameter selection for ReVeal, a state-of-the-art model, in order to achieve its best performance. Secondly, it explores the contributions of different parts of the Java dataset towards vulnerability detection. Lastly, the study evaluates the model's performance in separating close-to-vulnerable methods (vulnerable methods and their fixed versions) from randomly selected safe code, as well as the finer separation of vulnerable methods from their fixed versions within the set of close-to-vulnerable methods. The research employs a series of experiments to answer these questions and derive meaningful insights.},
+    abstract={This study explores the effectiveness of graph neural networks (GNNs) for vulnerability detection in software code, utilizing a real-world dataset of Java vulnerability-fixing commits. The dataset's structure, based on the number of modified methods in each commit, offers a natural partition that facilitates diverse investigative scenarios. The primary focus is to evaluate the general applicability of GNNs in identifying vulnerable code segments and distinguishing these from their fixed versions, as well as from random non-vulnerable code. Through a series of experiments, the research addresses key questions about the suitability of different configurations and subsets of data in enhancing the prediction accuracy of GNN models. Experiments indicate that certain model configurations, such as the pruning of specific graph elements and the exclusion of certain types of code representation, significantly improve performance. Additionally, the study highlights the importance of including random data in training to optimize the detection capabilities of GNNs.},
     preprint={https://arxiv.org/abs/2307.11454}
 }
 
