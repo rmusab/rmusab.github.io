@@ -99,6 +99,10 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - A [great resource](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) for deeper understanding of how LSTMs work with pleasant and informative illustrations.
 
+- The [illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/).
+
+- [RLHF](https://huyenchip.com/2023/05/02/rlhf.html): Reinforcement Learning from Human Feedback.
+
 ### Multimodal Learning
 
 - [Contrastive loss](https://gombru.github.io/2019/04/03/ranking_loss/) for multimodal retrieval.
