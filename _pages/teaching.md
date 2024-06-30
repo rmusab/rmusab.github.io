@@ -113,4 +113,4 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - A great [blog post](https://huyenchip.com/2023/10/10/multimodal.html) on Multimodality and Large Multimodal Models (LMMs).
 
-- One more [blog post](https://www.determined.ai/blog/multimodal-llms) about popular LMM architectures from DeterminedAI.
+- One more [blog post](https://www.determined.ai/blog/multimodal-llms) about popular LMM architectures from Determined AI.
