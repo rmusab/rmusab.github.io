@@ -85,6 +85,8 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - [Matrix multiplication](https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/) as two kinds of linear combinations (row-wise and column-wise).
 
+- Different [upsampling techinques](https://mriquestions.com/upsampling.html) used in CNNs.
+
 ### Natural Language Processing (NLP)
 
 - A wonderful [introductory course on NLP](https://lena-voita.github.io/nlp_course.html) from [Lena Voita](https://lena-voita.github.io/). It covers basic topics in a very beginner-friendly and visual format. Moreover, each chapter contains research-oriented questions that can inspire a reader to think about the learned material in novel ways.
@@ -101,6 +103,8 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - The [illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/).
 
+- Useful [tutorial](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention#%C2%A7cross-attention) on understanding and coding self-attention, multi-head attention, cross-attention, and causal-attention in LLMs.
+
 - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html): Reinforcement Learning from Human Feedback.
 
 ### Multimodal Learning
@@ -108,3 +112,5 @@ In this section, I have curated resources that have been instrumental in my rese
 - [Contrastive loss](https://gombru.github.io/2019/04/03/ranking_loss/) for multimodal retrieval.
 
 - A great [blog post](https://huyenchip.com/2023/10/10/multimodal.html) on Multimodality and Large Multimodal Models (LMMs).
+
+- One more [blog post](https://www.determined.ai/blog/multimodal-llms) about popular LMM architectures from DeterminedAI.
