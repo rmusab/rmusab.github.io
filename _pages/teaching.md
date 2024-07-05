@@ -81,8 +81,6 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - [A visual introduction to information theory](https://colah.github.io/posts/2015-09-Visual-Information/). This post explores the fundamentals of information theory, including optimal encoding, entropy, cross-entropy, mutual information, and other essential concepts that underpin how machine learning models learn from data.
 
-- [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/).
-
 - [Matrix multiplication](https://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/) as two kinds of linear combinations (row-wise and column-wise).
 
 - Different [upsampling techinques](https://mriquestions.com/upsampling.html) used in CNNs.
@@ -103,9 +101,17 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - The [illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/).
 
-- Useful [tutorial](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention#%C2%A7cross-attention) on understanding and coding self-attention, multi-head attention, cross-attention, and causal-attention in LLMs.
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/).
+
+- A useful [tutorial](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention#%C2%A7cross-attention) on understanding and coding self-attention, multi-head attention, cross-attention, and causal-attention in LLMs.
 
 - [RLHF](https://huyenchip.com/2023/05/02/rlhf.html): Reinforcement Learning from Human Feedback.
+
+- [Sparse Attention](https://arxiv.org/pdf/1904.10509v1).
+
+- [Mixture of Experts](https://huggingface.co/blog/moe) architecture.
+
+- [Rotary Embeddings (RoPE)](https://blog.eleuther.ai/rotary-embeddings/).
 
 ### Multimodal Learning
 
@@ -114,3 +120,13 @@ In this section, I have curated resources that have been instrumental in my rese
 - A great [blog post](https://huyenchip.com/2023/10/10/multimodal.html) on Multimodality and Large Multimodal Models (LMMs).
 
 - One more [blog post](https://www.determined.ai/blog/multimodal-llms) about popular LMM architectures from Determined AI.
+
+### Reinforcement Learning
+
+- A glorious introductory [course on Deep Reinforcement learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction).
+
+- [Maximum Entropy](https://awjuliani.medium.com/maximum-entropy-policies-in-reinforcement-learning-everyday-life-f5a1cc18d32d) Reinforcement Learning.
+
+- [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347).
+
+- [Direct Preference Optimization](https://arxiv.org/abs/2305.18290).
