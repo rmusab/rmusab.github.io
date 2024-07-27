@@ -151,4 +151,4 @@ The most notable multimodal architectures to know: CLIP (and its variations: X-C
 
 - [LangChain cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde).
 
-- Parameter-Efficient FineTuning (PEFT) techniques: [prefix-tuning](https://arxiv.org/pdf/2101.00190), [low-rank approximation (LoRA)](https://arxiv.org/abs/2106.09685).
+- Parameter-Efficient Fine-Tuning (PEFT) techniques: [prefix-tuning](https://arxiv.org/pdf/2101.00190), [low-rank approximation (LoRA)](https://arxiv.org/abs/2106.09685).
