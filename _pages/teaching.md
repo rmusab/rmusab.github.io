@@ -85,6 +85,8 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - Different [upsampling techinques](https://mriquestions.com/upsampling.html) used in CNNs.
 
+- [Grokking](https://arxiv.org/pdf/2201.02177): Generalization beyond overfitting on small algorithmic datasets.
+
 ### Natural Language Processing (NLP)
 
 - A wonderful [introductory course on NLP](https://lena-voita.github.io/nlp_course.html) from [Lena Voita](https://lena-voita.github.io/). It covers basic topics in a very beginner-friendly and visual format. Moreover, each chapter contains research-oriented questions that can inspire a reader to think about the learned material in novel ways.
@@ -113,7 +115,19 @@ In this section, I have curated resources that have been instrumental in my rese
 
 - [Rotary Embeddings (RoPE)](https://blog.eleuther.ai/rotary-embeddings/).
 
+- [Explanation](https://medium.com/@pickleprat/tweaking-the-transformer-llama-95d77e747b91) of LLaMa's architecture in contrast to a vanilla transformer.
+
+- Some works addressing the issue of the context length for transformers: [Longformer](https://arxiv.org/abs/2004.05150v2), [YaRN](https://arxiv.org/pdf/2309.00071), [LongRoPE](https://arxiv.org/pdf/2402.13753).
+
+- [Siamese representation learning](https://arxiv.org/pdf/2011.10566).
+
+- [COS 597G](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/): Understanding Large Language Models.
+
 ### Multimodal Learning
+
+The most notable multimodal architectures to know: CLIP (and its variations: X-CLIP, UniCLIP, DeCLIP, FILIP, ULIP), Flamingo, BLIP, BLIP-2, InstructBLIP, Macaw-LLM, ImageBind, NExT-GPT, LaVIN (Mixture-of-Modality Adaptation (MMA)), ALIGN, OFA.
+
+- A [comprehensive survey](https://arxiv.org/pdf/2306.13549) on Multimodal Large Language Models (MLLMs).
 
 - [Contrastive loss](https://gombru.github.io/2019/04/03/ranking_loss/) for multimodal retrieval.
 
@@ -130,3 +144,11 @@ In this section, I have curated resources that have been instrumental in my rese
 - [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347).
 
 - [Direct Preference Optimization](https://arxiv.org/abs/2305.18290).
+
+### Deep Learning Engineering
+
+- [LangChain AI Handbook](https://www.pinecone.io/learn/langchain/).
+
+- [LangChain cheatsheet](https://pub.towardsai.net/langchain-cheatsheet-all-secrets-on-a-single-page-8be26b721cde).
+
+- Parameter-Efficient FineTuning (PEFT) techniques: [prefix-tuning](https://arxiv.org/pdf/2101.00190), [low-rank approximation (LoRA)](https://arxiv.org/abs/2106.09685).

@@ -25,11 +25,15 @@ I am a computer scientist and mathematician with interests spanning from artific
 
 **Current Position:**
 
-- Research Scientist, Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
-- Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
+- Research Scientist, AI Research Lab, Satbayev University, Almaty, Kazakhstan. Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language through Advanced AI Technologies" (BR21882268).
+<!---
+Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
+Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
+-->
+- Focus on developing advanced search methods for large-scale optimization of machine learning algorithms.
 - Application areas include:
-  - Code generation.
-  - Vulnerability detection in Java and C++ source code.
+  - Big data clustering.
+  - Construction of optimal multilingual vocabularies and ontologies.
 
 **Research Interests:**
 
@@ -58,12 +62,15 @@ I am a computer scientist and mathematician with interests spanning from artific
 - Бакалавр наук (BSc) в области математического и компьютерного моделирования, Казахстанско-Британский технический университет (2018).
 
 **Текущая должность:**
-
-- Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия.
-- Сфера деятельности &mdash; разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs).
+- Научный сотрудник, Лаборатория Искусственного Интеллекта, Satbayev University, Алматы, Казахстан. Проект "Автоматическое построение мультиязычной онтологии для расширения применимости казахского языка на основе передовых интеллектуальных технологий" (BR21882268).
+<!---
+Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия.
+разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs).
+-->
+- Сфера деятельности &mdash; разработка передовых методов поиска для крупномасштабной оптимизации алгоритмов машинного обучения.
 - Прикладные области включают:
-  - Генерация кода.
-  - Обнаружение уязвимостей в исходном коде Java и C++.
+  - Кластеризация больших данных.
+  - Построение оптимальных мультиязычных словарей и онтологий.
 
 **Научные интересы:**
 
