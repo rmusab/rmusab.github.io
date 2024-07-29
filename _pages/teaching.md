@@ -125,7 +125,7 @@ In this section, I have curated resources that have been instrumental in my rese
 
 ### Multimodal Learning
 
-The most notable multimodal architectures to know: CLIP (and its variations: X-CLIP, UniCLIP, DeCLIP, FILIP, ULIP), Flamingo, BLIP, BLIP-2, InstructBLIP, Macaw-LLM, ImageBind, NExT-GPT, LaVIN (Mixture-of-Modality Adaptation (MMA)), ALIGN, OFA.
+The most notable multimodal architectures to know: CLIP (and its variations: X-CLIP, UniCLIP, DeCLIP, FILIP, ULIP), Flamingo, BLIP, BLIP-2, InstructBLIP, Macaw-LLM, LLaVA (shallow fusion), LLaVA-NeXT, CogVLM (deep fusion), ImageBind, NExT-GPT, LaVIN (Mixture-of-Modality Adaptation (MMA)), ALIGN, OFA.
 
 - A [comprehensive survey](https://arxiv.org/pdf/2306.13549) on Multimodal Large Language Models (MLLMs).
 
