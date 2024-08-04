@@ -5,14 +5,21 @@ research_repos:
   - rmusab/rlic-sqn
   - rmusab/robo-pick-app
   - rmusab/random-walk
+  - rmusab/wrd-score
+  - rmusab/mllm-microscope
+  - rmusab/hpclust
+  - rmusab/vul-llm-finetune
 
 prod_soft_repos:
+  - R-Mussabayev/bigmeans
   - rmusab/physics-lab
   - rmusab/lexicon
   - rmusab/tvd
   - rmusab/examinator
   - rmusab/extralang
   - rmusab/cube-timer
+  - rmusab/execution-paths
+  - rmusab/flakylib
 
 study_repos:
   - rmusab/python-ml
