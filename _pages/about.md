@@ -25,7 +25,7 @@ I am a computer scientist and mathematician with interests spanning from artific
 
 **Current Position:**
 
-- Research Scientist, AI Research Lab, Satbayev University, Almaty, Kazakhstan. Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language through Advanced AI Technologies" (BR21882268).
+- Research Scientist, AI Research Lab, Satbayev University, Almaty, Kazakhstan. Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language Through Advanced AI Technologies" (BR21882268).
 <!---
 Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
 Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
