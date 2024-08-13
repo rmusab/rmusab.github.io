@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Заметки о науке
-date: 2023-12-21 07:00:00
+date: 2024-08-13 07:00:00
 description: Мои наблюдения и мысли о науке
 giscus_comments: true
 categories: science
