@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a computer scientist and mathematician with interests spanning from artificial intelligence to theology, dedicated to fulfilling God's global plan of love in the world.
+I work in computer science and mathematics. My interests span from artificial intelligence to philosophy.
 
 **Education:**
 
@@ -25,7 +25,8 @@ I am a computer scientist and mathematician with interests spanning from artific
 
 **Current Position:**
 
-- Research Scientist, AI Research Lab, Satbayev University, Almaty, Kazakhstan. Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language Through Advanced AI Technologies" (BR21882268).
+- Associate Professor, Institute of Automation and Information Technologies, Department of Software Engineering, Satbayev University (Almaty, Kazakhstan).
+- Research Scientist, AI Research Lab, Satbayev University (Almaty, Kazakhstan). Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language Through Advanced AI Technologies" (BR21882268).
 <!---
 Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
 Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
@@ -37,7 +38,7 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Research Interests:**
 
-- Algorithmic foundations of computer science: clustering, big data technologies, global optimization, soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
+- Algorithmic foundations of computer science: multimodal optimization metaheuristics, multimodal deep learning models, clustering, big data, global optimization and soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
 
 **Outreach:**
 
@@ -53,7 +54,7 @@ Focus on developing and implementing advanced deep learning models: transformers
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я &mdash; учёный в области компьютерных наук и математики с интересами, простирающимися от искусственного интеллекта до богословия, который посвятил себя исполнению глобального Божественного замысла любви в мире.
+Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта до философии.
 
 **Образование:**
 
@@ -62,7 +63,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 - Бакалавр наук (BSc) в области математического и компьютерного моделирования, Казахстанско-Британский технический университет (2018).
 
 **Текущая должность:**
-- Научный сотрудник, Лаборатория Искусственного Интеллекта, Satbayev University, Алматы, Казахстан. Проект "Автоматическое построение мультиязычной онтологии для расширения применимости казахского языка на основе передовых интеллектуальных технологий" (BR21882268).
+- Ассоциированный профессор, Институт автоматики и информационных технологий, Кафедра Программной инженерии, Satbayev University (Алматы, Казахстан).
+- Научный сотрудник, Лаборатория Искусственного Интеллекта, Satbayev University (Алматы, Казахстан). Проект "Автоматическое построение мультиязычной онтологии для расширения применимости казахского языка на основе передовых интеллектуальных технологий" (BR21882268).
 <!---
 Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия.
 разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs).
@@ -74,7 +76,7 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Научные интересы:**
 
-- Алгоритмические основы компьютерных наук: кластеризация, технологии больших данных, глобальная оптимизация, мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка, ИИ для программирования.
+- Алгоритмические основы компьютерных наук: мультимодальные оптимизационные метаэвристики, мультимодальные модели глубокого обучения, кластеризация, большие данные, глобальная оптимизация и мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка и ИИ для программирования.
 
 **Взаимодействие с миром:**
 
