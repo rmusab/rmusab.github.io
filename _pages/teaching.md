@@ -11,6 +11,10 @@ nav_order: 5
 
 You can find my University of Washington profile with a list of courses [here](https://math.washington.edu/people/ravil-mussabayev).
 
+### Satbayev University (2024-current)
+
+- CSE2562: Applied Text Processing
+
 ### University of Washington (2018-2022)
 
 - Spring 2022 (grading)
