@@ -128,7 +128,7 @@
 
 @inproceedings{Mussabayev2015-roboticarm,
     abbr={IEEEXplore},
-    author={Mussabayev, Ravil},
+    author={Ravil Mussabayev},
     booktitle={2015 Twelve International Conference on Electronics Computer and Computation (ICECCO)},
     title={Colour-based object detection, inverse kinematics algorithms and pinhole camera model for controlling robotic arm movement system},
     year={2015},
@@ -180,4 +180,16 @@
     primaryClass={cs.CR},
     abstract={This paper presents the results of finetuning large language models (LLMs) for the task of detecting vulnerabilities in source code. We leverage WizardCoder, a recent improvement of the state-of-the-art LLM StarCoder, and adapt it for vulnerability detection through further finetuning. To accelerate training, we modify WizardCoder's training procedure, also we investigate optimal training regimes. For the imbalanced dataset with many more negative examples than positive, we also explore different techniques to improve classification performance. The finetuned WizardCoder model achieves improvement in ROC AUC and F1 measures on balanced and imbalanced vulnerability datasets over CodeBERT-like model, demonstrating the effectiveness of adapting pretrained LLMs for vulnerability detection in source code. The key contributions are finetuning the state-of-the-art code LLM, WizardCoder, increasing its training speed without the performance harm, optimizing the training procedure and regimes, handling class imbalance, and improving performance on difficult vulnerability detection datasets. This demonstrates the potential for transfer learning by finetuning large pretrained language models for specialized source code analysis tasks.},
     preprint={http://arxiv.org/abs/2401.17010}
+}
+
+@unpublished{Mussabayev2023-boosting,
+    abbr={arXiv},
+    title={Boosting K-means for Big Data by Fusing Data Streaming with Global Optimization},
+    author={Ravil Mussabayev and Rustam Mussabayev},
+    year={2024},
+    eprint={2410.14548},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG},
+    abstract={K-means clustering is a cornerstone of data mining, but its efficiency deteriorates when confronted with massive datasets. To address this limitation, we propose a novel heuristic algorithm that leverages the Variable Neighborhood Search (VNS) metaheuristic to optimize K-means clustering for big data. Our approach is based on the sequential optimization of the partial objective function landscapes obtained by restricting the Minimum Sum-of-Squares Clustering (MSSC) formulation to random samples from the original big dataset. Within each landscape, systematically expanding neighborhoods of the currently best (incumbent) solution are explored by reinitializing all degenerate and a varying number of additional centroids. Extensive and rigorous experimentation on a large number of real-world datasets reveals that by transforming the traditional local search into a global one, our algorithm significantly enhances the accuracy and efficiency of K-means clustering in big data environments, becoming the new state of the art in the field.},
+    preprint={https://arxiv.org/abs/2410.14548}
 }
