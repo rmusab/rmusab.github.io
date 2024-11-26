@@ -38,7 +38,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Research Interests:**
 
-- Algorithmic foundations of computer science: multimodal optimization metaheuristics, multimodal deep learning models, clustering, big data, global optimization and soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
+- AI in education.
+- Algorithmic foundations of computer science: multimodal optimization metaheuristics, multimodal deep learning models, multimodal generative AI (GenAI), clustering, big data, global optimization and soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
 
 **Outreach:**
 
@@ -76,7 +77,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Научные интересы:**
 
-- Алгоритмические основы компьютерных наук: мультимодальные оптимизационные метаэвристики, мультимодальные модели глубокого обучения, кластеризация, большие данные, глобальная оптимизация и мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка и ИИ для программирования.
+- ИИ в образовании.
+- Алгоритмические основы компьютерных наук: мультимодальные оптимизационные метаэвристики, мультимодальные модели глубокого обучения, мультимодальный генеративный ИИ (GenAI), кластеризация, большие данные, глобальная оптимизация и мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка и ИИ для программирования.
 
 **Взаимодействие с миром:**
 
