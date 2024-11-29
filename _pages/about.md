@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I work in computer science and mathematics. My interests span from artificial intelligence to philosophy.
+I work in computer science and mathematics. My interests span from artificial intelligence (AI) to philosophy. I am engaged in government-funded scientific projects in the fields of multimodal AI and AI in education. 
 
 **Education:**
 
@@ -55,7 +55,7 @@ Focus on developing and implementing advanced deep learning models: transformers
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта до философии.
+Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта (ИИ) до философии. Занимаюсь государственными научными проектами в области мультимодального ИИ и ИИ в образовании.
 
 **Образование:**
 
