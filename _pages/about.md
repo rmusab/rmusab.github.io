@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I work in computer science and mathematics. My interests span from artificial intelligence (AI) to philosophy. I am engaged in government-funded scientific projects in the fields of multimodal AI and AI in education. 
+I work in computer science and mathematics. My interests span from artificial intelligence (AI) to philosophy. I am engaged in government-funded scientific projects in the fields of multimodal generative AI, and development of decision support systems based on fusing augmented intelligence with multi-agent systems and big data.
 
 **Education:**
 
@@ -38,8 +38,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Research Interests:**
 
-- AI in education.
-- Algorithmic foundations of computer science: multimodal optimization metaheuristics, multimodal deep learning models, multimodal generative AI (GenAI), clustering, big data, global optimization and soft computing (metaheuristics), streaming algorithms, distributed and parallel algorithms, machine learning, reinforcement learning, natural language processing, and AI for code.
+- Algorithmic foundations of computer science.
+- Multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering and education.
 
 **Outreach:**
 
@@ -55,7 +55,7 @@ Focus on developing and implementing advanced deep learning models: transformers
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта (ИИ) до философии. Занимаюсь государственными научными проектами в области мультимодального ИИ и ИИ в образовании.
+Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта (ИИ) до философии. Я занимаюсь научными проектами, финансируемыми государством, в областях мультимодального генеративного искусственного интеллекта (GenAI), а также разработки систем поддержки принятия решений на основе объединения дополненного интеллекта с мультиагентными системами и большими данными.
 
 **Образование:**
 
@@ -77,8 +77,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 
 **Научные интересы:**
 
-- ИИ в образовании.
-- Алгоритмические основы компьютерных наук: мультимодальные оптимизационные метаэвристики, мультимодальные модели глубокого обучения, мультимодальный генеративный ИИ (GenAI), кластеризация, большие данные, глобальная оптимизация и мягкие вычисления (метаэвристики), потоковые алгоритмы, распределённые и параллельные алгоритмы, машинное обучение, обучение с подкреплением, обработка естественного языка и ИИ для программирования.
+- Алгоритмические основы компьютерных наук.
+- Мультимодальный генеративный искусственный интеллект (GenAI), системы поддержки принятия решений на основе ИИ, дополненный интеллект, многоагентные системы, технологии больших данных, кластеризация, мультимодальная глобальная оптимизация и мягкие вычисления (метаэвристики), исследование операций, потоковые алгоритмы, распределенные и параллельные алгоритмы, обработка естественного языка, а также ИИ для программной инженерии и образования.
 
 **Взаимодействие с миром:**
 
