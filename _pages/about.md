@@ -32,16 +32,13 @@ I work in computer science and mathematics. My interests span from artificial in
 Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
 Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
 -->
-- Focus on developing advanced search methods for large-scale optimization of machine learning algorithms.
-- Application areas include:
-  - Big data clustering.
-  - Construction of optimal multilingual vocabularies and ontologies.
+  - Focus on developing advanced search methods for large-scale optimization of machine learning algorithms.
+  - Application areas include big data clustering, as well as construction of optimal multilingual vocabularies and ontologies.
 
 **Research Interests:**
 
 - AI in education, including the aspects of digitalization, personalization, adaptiveness, automation.
-- Algorithmic foundations of computer science.
-- Multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering.
+- Algorithmic foundations of computer science: multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering.
 
 **Outreach:**
 
@@ -73,16 +70,13 @@ Focus on developing and implementing advanced deep learning models: transformers
 Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия.
 разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs).
 -->
-- Сфера деятельности &mdash; разработка передовых методов поиска для крупномасштабной оптимизации алгоритмов машинного обучения.
-- Прикладные области включают:
-  - Кластеризация больших данных.
-  - Построение оптимальных мультиязычных словарей и онтологий.
+  - Сфера деятельности &mdash; разработка передовых методов поиска для крупномасштабной оптимизации алгоритмов машинного обучения.
+  - Прикладные области включают кластеризацию больших данных и построение оптимальных мультиязычных словарей и онтологий.
 
 **Научные интересы:**
 
 - Искусственный интеллект в образовании, включая аспекты цифровизации, персонализации, адаптивности и автоматизации.
-- Алгоритмические основы компьютерных наук.
-- Мультимодальный генеративный искусственный интеллект (GenAI), системы поддержки принятия решений на основе ИИ, дополненный интеллект, мультиагентные системы, технологии больших данных, кластеризация, мультимодальная глобальная оптимизация и мягкие вычисления (метаэвристики), исследование операций, потоковые алгоритмы, распределенные и параллельные алгоритмы, обработка естественного языка, а также ИИ для программной инженерии.
+- Алгоритмические основы компьютерных наук: мультимодальный генеративный искусственный интеллект (GenAI), системы поддержки принятия решений на основе ИИ, дополненный интеллект, мультиагентные системы, технологии больших данных, кластеризация, мультимодальная глобальная оптимизация и мягкие вычисления (метаэвристики), исследование операций, потоковые алгоритмы, распределенные и параллельные алгоритмы, обработка естественного языка, а также ИИ для программной инженерии.
 
 **Взаимодействие с миром:**
 
