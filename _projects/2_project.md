@@ -5,7 +5,7 @@ description: Developing effective, efficient, and highly scalable clustering alg
 img: assets/img/big-data-clustering.png
 importance: 2
 category: Work
-related_publications: Mussabayev2023-bigmeans, Mussabayev2023-kmeanscomp, Mussabayev2023-bigmeanspar, Mussabayev2023-bigmeanspar0, Mussabayev2024-superior
+related_publications: Mussabayev2023-bigmeans, Mussabayev2024-kmeanscomp, Mussabayev2024-bigmeanspar, Mussabayev2024-bigmeanspar0, Mussabayev2024-superior, Mussabayev2025-bimodalclust
 giscus_comments: true
 ---
 
