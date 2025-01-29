@@ -13,7 +13,10 @@ You can find my University of Washington profile with a list of courses [here](h
 
 ### Satbayev University (2024-current)
 
-- CSE2562: Applied Text Processing
+- Spring 2025
+  - CSE1273: Object-Oriented Programming in Java
+- Autumn 2024
+  - CSE2562: Applied Text Processing (NLP)
 
 ### University of Washington (2018-2022)
 
