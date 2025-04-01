@@ -43,7 +43,8 @@ Focus on developing and implementing advanced deep learning models: transformers
 **Outreach:**
 
 - Regularly publish [essays (blog posts)]({{ site.baseurl }}/blog/) on fundamental topics that shape our understanding of the world.
-- Post daily reflections in Russian on the Telegram channel: ["Сокровищница смысла"](https://t.me/God_Equals_Love).
+- Lead a philosophical reading club.
+<!-- - Post daily reflections in Russian on the Telegram channel: ["Сокровищница смысла"](https://t.me/God_Equals_Love). -->
 
 ---
 
@@ -81,6 +82,7 @@ Focus on developing and implementing advanced deep learning models: transformers
 **Взаимодействие с миром:**
 
 - Регулярно делюсь своими [эссе (блог-постами)]({{ site.baseurl }}/blog/), написанными на фундаментальные темы, которые формируют наше понимание мира.
-- Публикую короткие ежедневные размышления на русском языке в своём Telegram-канале: ["Сокровищница смысла"](https://t.me/God_Equals_Love).
+- Веду литературный кружок по философии.
+<!-- - Публикую короткие ежедневные размышления на русском языке в своём Telegram-канале: ["Сокровищница смысла"](https://t.me/God_Equals_Love). -->
 
 ---
