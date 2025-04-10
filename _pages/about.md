@@ -15,7 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My professional interests lie in computer science, mathematics, and philosophy. I hold a PhD degree in Mathematics from the University of Washington (2024). I am working as a Head of Data Research in the Applied AI Center of Sber AI Lab (Moscow, Russia), Research Scientist in the AI Research Lab and Associate Professor in the Department of Software Engineering of Satbayev University (Almaty, Kazakhstan).
+My professional interests lie in computer science, mathematics, and philosophy. I hold a PhD degree in Mathematics from the University of Washington (2024).
+
+**Current Positions:**
+
+- Head of Data Research, Applied AI Center, Sber AI Lab (Moscow, Russia).
+- Associate Professor, Department of Software Engineering, Satbayev University (Almaty, Kazakhstan).
+- Research Scientist, AI Research Lab, Satbayev University.
 
 **Research Interests:**
 
@@ -36,7 +42,13 @@ My professional interests lie in computer science, mathematics, and philosophy. 
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Мои профессиональные интересы лежат в области информатики, математики и философии. Я получил степень доктора философии (PhD) по математике в Вашингтонском университете (2024 год). В настоящее время работаю руководителем направления по исследованию данных в Центре прикладного искусственного интеллекта (ИИ) Лаборатории ИИ Сбера (Москва, Россия), научным сотрудником в Исследовательской лаборатории ИИ и доцентом кафедры программного обеспечения Satbayev University (Алматы, Казахстан).
+Мои профессиональные интересы лежат в области информатики, математики и философии. Я получил степень доктора философии (PhD) по математике в Вашингтонском университете (2024 год).
+
+**Текущие должности:**
+
+- Руководитель направления по исследованию данных, Центр прикладного искусственного интеллекта (ИИ), Лаборатория ИИ Сбера (Москва, Россия).
+- Ассоциированный профессор, кафедра Программной инженерии, Satbayev University (Алматы, Казахстан).
+- Научный сотрудник, Исследовательская лаборатория ИИ, Satbayev University.
 
 **Научные интересы:**
 
