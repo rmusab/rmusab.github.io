@@ -174,6 +174,23 @@
     html={https://doi.org/10.1109/OPCS63516.2024.10720439}
 }
 
+@article{Shestov2025-finetuning,
+    abbr={IEEEAccess},
+    author={Shestov, Aleksei and Levichev, Rodion and Mussabayev, Ravil and Maslov, Evgeny and Zadorozhny, Pavel and Cheshkov, Anton and Mussabayev, Rustam and Toleu, Alymzhan and Tolegen, Gulmira and Krassovitskiy, Alexander},
+    journal={IEEE Access}, 
+    title={Finetuning Large Language Models for Vulnerability Detection}, 
+    year={2025},
+    volume={13},
+    number={},
+    pages={38889-38900},
+    keywords={Training;Codes;Standards;Large language models;Predictive models;Limiting;Java;Entropy;Adaptation models;Reviews;Large language models;vulnerability detection;cybersecurity;finetuning;StarCoder;WizardCoder;PEFT;LoRA},
+    abstract={This paper presents the results of finetuning large language models (LLMs) for the task of detecting vulnerabilities in source code. We leverage WizardCoder, a recent improvement of the state-of-the-art LLM StarCoder, and adapt it for vulnerability detection through further finetuning. To accelerate training, we modify WizardCoder's training procedure, also we investigate optimal training regimes. For the imbalanced dataset with many more negative examples than positive, we also explore different techniques to improve classification performance. The finetuned WizardCoder model achieves improvement in ROC AUC and F1 measures on balanced and imbalanced vulnerability datasets over CodeBERT-like model, demonstrating the effectiveness of adapting pretrained LLMs for vulnerability detection in source code. The key contributions are finetuning the state-of-the-art code LLM, WizardCoder, increasing its training speed without the performance harm, optimizing the training procedure and regimes, handling class imbalance, and improving performance on difficult vulnerability detection datasets. This demonstrates the potential for transfer learning by finetuning large pretrained language models for specialized source code analysis tasks.},
+    preprint={http://arxiv.org/abs/2401.17010},
+    doi={10.1109/ACCESS.2025.3546700},
+    code={https://github.com/rmusab/vul-llm-finetune},
+    html={https://doi.org/10.1109/ACCESS.2025.3546700}
+}
+
 % --- My Preprints ---
 
 @report{Mussabayev2023-dissecting,
@@ -186,18 +203,6 @@
     primaryClass={cs.CR},
     abstract={This study explores the effectiveness of graph neural networks (GNNs) for vulnerability detection in software code, utilizing a real-world dataset of Java vulnerability-fixing commits. The dataset's structure, based on the number of modified methods in each commit, offers a natural partition that facilitates diverse investigative scenarios. The primary focus is to evaluate the general applicability of GNNs in identifying vulnerable code segments and distinguishing these from their fixed versions, as well as from random non-vulnerable code. Through a series of experiments, the research addresses key questions about the suitability of different configurations and subsets of data in enhancing the prediction accuracy of GNN models. Experiments indicate that certain model configurations, such as the pruning of specific graph elements and the exclusion of certain types of code representation, significantly improve performance. Additionally, the study highlights the importance of including random data in training to optimize the detection capabilities of GNNs.},
     preprint={https://arxiv.org/abs/2307.11454}
-}
-
-@unpublished{Shestov2024-finetuning,
-    abbr={arXiv},
-    title={Finetuning Large Language Models for Vulnerability Detection},
-    author={Alexey Shestov and Rodion Levichev and Ravil Mussabayev and Evgeny Maslov and Anton Cheshkov and Pavel Zadorozhny},
-    year={2024},
-    eprint={2401.17010},
-    archivePrefix={arXiv},
-    primaryClass={cs.CR},
-    abstract={This paper presents the results of finetuning large language models (LLMs) for the task of detecting vulnerabilities in source code. We leverage WizardCoder, a recent improvement of the state-of-the-art LLM StarCoder, and adapt it for vulnerability detection through further finetuning. To accelerate training, we modify WizardCoder's training procedure, also we investigate optimal training regimes. For the imbalanced dataset with many more negative examples than positive, we also explore different techniques to improve classification performance. The finetuned WizardCoder model achieves improvement in ROC AUC and F1 measures on balanced and imbalanced vulnerability datasets over CodeBERT-like model, demonstrating the effectiveness of adapting pretrained LLMs for vulnerability detection in source code. The key contributions are finetuning the state-of-the-art code LLM, WizardCoder, increasing its training speed without the performance harm, optimizing the training procedure and regimes, handling class imbalance, and improving performance on difficult vulnerability detection datasets. This demonstrates the potential for transfer learning by finetuning large pretrained language models for specialized source code analysis tasks.},
-    preprint={http://arxiv.org/abs/2401.17010}
 }
 
 @unpublished{Mussabayev2024-boosting,

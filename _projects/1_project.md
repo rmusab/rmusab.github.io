@@ -5,7 +5,7 @@ description: Exploring key research questions in the field of cybersecurity. Wha
 img: assets/img/cybersecurity.jpg
 importance: 1
 category: Work
-related_publications: Mussabayev2023-dissecting, Shestov2024-finetuning
+related_publications: Mussabayev2023-dissecting, Shestov2025-finetuning
 giscus_comments: true
 ---
 

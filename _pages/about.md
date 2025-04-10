@@ -15,7 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I work in computer science and mathematics. My interests span from artificial intelligence (AI) to philosophy. I am engaged in scientific projects funded by government and industry in the field of multimodal generative AI in education, including developing decision support systems based on fusing augmented intelligence with multi-agent systems and big data.
+My professional interests lie in computer science, mathematics, and philosophy. I hold a PhD degree in Mathematics from the University of Washington (2024). I am working as a Head of Data Research in the Applied AI Center of Sber AI Lab (Moscow, Russia), Research Scientist in the AI Research Lab and Associate Professor in the Department of Software Engineering of Satbayev University (Almaty, Kazakhstan). I am engaged in scientific projects funded by government and industry in the field of multimodal generative AI in education, including developing decision support systems based on fusing augmented intelligence with multi-agent systems and big data.
+<!---My interests span from artificial intelligence (AI) to philosophy.
 
 **Education:**
 
@@ -27,13 +28,13 @@ I work in computer science and mathematics. My interests span from artificial in
 
 - Senior Research Scientist, Sber AI Lab (Moscow, Russia).
 - Associate Professor, Institute of Automation and Information Technologies, Department of Software Engineering, Satbayev University (Almaty, Kazakhstan).
-- Research Scientist, AI Research Lab, Satbayev University (Almaty, Kazakhstan). Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language Through Advanced AI Technologies" (BR21882268).
+- Research Scientist, AI Research Lab, Satbayev University (Almaty, Kazakhstan). Project "Automated Construction of a Multilingual Ontology for Empowering the Kazakh Language Through Advanced AI Technologies" (BR21882268).-->
 <!---
 Moscow Software Development Tools Cloud Technology Lab, Huawei Russian Research Institute, Moscow, Russia.
 Focus on developing and implementing advanced deep learning models: transformers, graph neural networks (GNNs), large language models (LLMs).
--->
+
   - Focus on developing advanced search methods for large-scale optimization of machine learning algorithms.
-  - Application areas include big data clustering, as well as construction of optimal multilingual vocabularies and ontologies.
+  - Application areas include big data clustering, as well as construction of optimal multilingual vocabularies and ontologies.-->
 
 **Research Interests:**
 
@@ -55,7 +56,9 @@ Focus on developing and implementing advanced deep learning models: transformers
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта (ИИ) до философии. Я участвую в финансируемых государством и компаниями научных проектах в области мультимодального генеративного ИИ (GenAI) в образовании, включая разработку систем поддержки принятия решений на основе слияния дополненного интеллекта с мультиагентными системами и большими данными.
+Мои профессиональные интересы лежат в области информатики, математики и философии. Я получил степень доктора философии (PhD) по математике в Вашингтонском университете (2024 год). В настоящее время работаю руководителем направления по исследованию данных в Центре прикладного искусственного интеллекта (ИИ) Лаборатории ИИ Сбера (Москва, Россия), научным сотрудником в Исследовательской лаборатории ИИ и доцентом кафедры программного обеспечения Satbayev University (Алматы, Казахстан). Участвую в финансируемых государством и компаниями научных проектах в области мультимодального генеративного ИИ (GenAI) в образовании, включая разработку систем поддержки принятия решений на основе слияния дополненного интеллекта с мультиагентными системами и большими данными.
+
+<!---Я работаю в компьютерных науках и математике. Мои интересы простираются от искусственного интеллекта (ИИ) до философии. Я участвую в финансируемых государством и компаниями научных проектах в области мультимодального генеративного ИИ (GenAI) в образовании, включая разработку систем поддержки принятия решений на основе слияния дополненного интеллекта с мультиагентными системами и большими данными.
 
 **Образование:**
 
@@ -66,13 +69,13 @@ Focus on developing and implementing advanced deep learning models: transformers
 **Текущая должность:**
 - Руководитель направления по исследованию данных, Sber AI Lab (Москва, Россия).
 - Ассоциированный профессор, Институт автоматики и информационных технологий, Кафедра Программной инженерии, Satbayev University (Алматы, Казахстан).
-- Научный сотрудник, Лаборатория Искусственного Интеллекта, Satbayev University (Алматы, Казахстан). Проект "Автоматическое построение мультиязычной онтологии для расширения применимости казахского языка на основе передовых интеллектуальных технологий" (BR21882268).
+- Научный сотрудник, Лаборатория Искусственного Интеллекта, Satbayev University (Алматы, Казахстан). Проект "Автоматическое построение мультиязычной онтологии для расширения применимости казахского языка на основе передовых интеллектуальных технологий" (BR21882268).-->
 <!---
 Научный сотрудник, Московская лаборатория облачных технологий и инструментов разработки программного обеспечения, Научно-исследовательский институт Huawei, Москва, Россия.
 разработка и внедрение передовых моделей глубокого обучения: трансформеры, графовые нейронные сети (GNNs), большие языковые модели (LLMs).
--->
+
   - Сфера деятельности &mdash; разработка передовых методов поиска для крупномасштабной оптимизации алгоритмов машинного обучения.
-  - Прикладные области включают кластеризацию больших данных и построение оптимальных мультиязычных словарей и онтологий.
+  - Прикладные области включают кластеризацию больших данных и построение оптимальных мультиязычных словарей и онтологий.-->
 
 **Научные интересы:**
 
