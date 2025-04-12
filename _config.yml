@@ -262,8 +262,10 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['math', 'science', 'life', 'orthodoxy', 'philosophy', 'society'] # these tags will be displayed on the front page of your blog
-display_categories: ['general', 'epistemology', 'christianity', 'science'] # these categories will be displayed on the front page of your blog
+display_tags:
+# display_tags: ['math', 'science', 'life', 'orthodoxy', 'philosophy', 'society'] # these tags will be displayed on the front page of your blog
+display_categories:
+# display_categories: ['general', 'epistemology', 'christianity', 'science'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
