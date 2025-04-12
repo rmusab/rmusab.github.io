@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My professional interests lie in computer science, mathematics, and philosophy. I hold a PhD degree in Mathematics from the University of Washington (2024).
+My professional interests lie in computer science, mathematics, and philosophy.
 
 **Current Positions:**
 
@@ -28,11 +28,6 @@ My professional interests lie in computer science, mathematics, and philosophy. 
 - AI in education, including the aspects of digitalization, personalization, adaptiveness, automation.
 - Algorithmic foundations of computer science: multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering.
 
-**Outreach:**
-
-- Regularly publish [essays (blog posts)]({{ site.baseurl }}/blog/) on fundamental topics that shape our understanding of the world.
-- Lead a philosophical reading club.
-
 ---
 
 <header class="post-header">
@@ -42,7 +37,7 @@ My professional interests lie in computer science, mathematics, and philosophy. 
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Мои профессиональные интересы лежат в области информатики, математики и философии. Я получил степень доктора философии (PhD) по математике в Вашингтонском университете (2024 год).
+Мои профессиональные интересы лежат в области информатики, математики и философии.
 
 **Текущие должности:**
 
@@ -54,10 +49,5 @@ My professional interests lie in computer science, mathematics, and philosophy. 
 
 - Искусственный интеллект в образовании, включая аспекты цифровизации, персонализации, адаптивности и автоматизации.
 - Алгоритмические основы компьютерных наук: мультимодальный генеративный искусственный интеллект (GenAI), системы поддержки принятия решений на основе ИИ, дополненный интеллект, мультиагентные системы, технологии больших данных, кластеризация, мультимодальная глобальная оптимизация и мягкие вычисления (метаэвристики), исследование операций, потоковые алгоритмы, распределенные и параллельные алгоритмы, обработка естественного языка, а также ИИ для программной инженерии.
-
-**Взаимодействие с миром:**
-
-- Регулярно делюсь своими [эссе (блог-постами)]({{ site.baseurl }}/blog/), написанными на фундаментальные темы, которые формируют наше понимание мира.
-- Веду литературный кружок по философии.
 
 ---

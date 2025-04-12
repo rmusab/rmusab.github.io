@@ -9,9 +9,11 @@ research_repos:
   - rmusab/mllm-microscope
   - rmusab/hpclust
   - rmusab/vul-llm-finetune
+  - rmusab/bi-modal-clust
 
 prod_soft_repos:
   - R-Mussabayev/bigmeans
+  - rmusab/big-optima-s3
   - rmusab/physics-lab
   - rmusab/lexicon
   - rmusab/tvd
@@ -23,3 +25,4 @@ prod_soft_repos:
 
 study_repos:
   - rmusab/python-ml
+  - rmusab/SU-NLP-Course-AU2024
