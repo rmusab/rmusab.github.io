@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My professional interests lie in computer science, mathematics, and philosophy.
+My professional work focuses on computer science and mathematics.
 
 **Research Interests:**
 
@@ -32,7 +32,7 @@ My professional interests lie in computer science, mathematics, and philosophy.
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Мои профессиональные интересы лежат в области информатики, математики и философии.
+Моя профессиональная деятельность сосредоточена на информатике и математике.
 
 **Научные интересы:**
 
