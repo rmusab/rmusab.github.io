@@ -25,8 +25,9 @@ My professional interests lie in computer science, mathematics, and philosophy.
 
 **Research Interests:**
 
-- AI in education, including the aspects of digitalization, personalization, adaptiveness, automation.
-- Algorithmic foundations of computer science: multimodal generative AI (GenAI), AI-based decision support systems, augmented intelligence, multi-agent systems, big data technologies, clustering, multimodal global optimization and soft computing (metaheuristics), operations research, streaming algorithms, distributed and parallel algorithms, natural language processing, and AI for software engineering.
+- AI in education.
+- Global optimization for big data problems; streaming, distributed, and parallel algorithms.
+- Multimodal generative AI (GenAI), augmented intelligence, and multi-agent systems.
 
 ---
 
@@ -47,7 +48,8 @@ My professional interests lie in computer science, mathematics, and philosophy.
 
 **Научные интересы:**
 
-- Искусственный интеллект в образовании, включая аспекты цифровизации, персонализации, адаптивности и автоматизации.
-- Алгоритмические основы компьютерных наук: мультимодальный генеративный искусственный интеллект (GenAI), системы поддержки принятия решений на основе ИИ, дополненный интеллект, мультиагентные системы, технологии больших данных, кластеризация, мультимодальная глобальная оптимизация и мягкие вычисления (метаэвристики), исследование операций, потоковые алгоритмы, распределенные и параллельные алгоритмы, обработка естественного языка, а также ИИ для программной инженерии.
+- Искусственный интеллект в образовании.
+- Глобальная оптимизация для задач с большими данными; потоковые, распределённые и параллельные алгоритмы.
+- Мультимодальный генеративный ИИ (GenAI), дополненный интеллект и мультиагентные системы.
 
 ---
