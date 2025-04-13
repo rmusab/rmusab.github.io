@@ -17,6 +17,12 @@ social: true # includes social icons at the bottom of the page
 
 My professional interests lie in computer science, mathematics, and philosophy.
 
+**Current Positions:**
+
+- Head of Data Research, Applied AI Center, Sber AI Lab (Moscow, Russia).
+- Associate Professor, Department of Software Engineering, Satbayev University (Almaty, Kazakhstan).
+- Research Scientist, AI Research Lab, Satbayev University.
+
 **Research Interests:**
 
 - AI in education.
@@ -33,6 +39,12 @@ My professional interests lie in computer science, mathematics, and philosophy.
 </header>
 
 Мои профессиональные интересы лежат в области информатики, математики и философии.
+
+**Текущие должности:**
+
+- Руководитель направления по исследованию данных, Центр прикладного искусственного интеллекта (ИИ), Лаборатория ИИ Сбера (Москва, Россия).
+- Ассоциированный профессор, кафедра Программной инженерии, Satbayev University (Алматы, Казахстан).
+- Научный сотрудник, Исследовательская лаборатория ИИ, Satbayev University.
 
 **Научные интересы:**
 
