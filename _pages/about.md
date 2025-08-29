@@ -15,13 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My professional work focuses on computer science and mathematics.
+My professional work focuses on computer science and mathematics. I hold a PhD degree in mathematics from the University of Washington.
 
-**Research Interests:**
+**Industry projects and research interests:**
 
-- AI in education.
 - Global optimization for big data problems; streaming, distributed, and parallel algorithms.
 - Multimodal generative AI (GenAI), augmented intelligence, and multi-agent systems.
+- AI in education.
 
 ---
 
@@ -32,12 +32,12 @@ My professional work focuses on computer science and mathematics.
       <p class="desc">Добро пожаловать на мою страницу!</p>
 </header>
 
-Моя профессиональная деятельность сосредоточена на информатике и математике.
+Моя профессиональная деятельность сосредоточена на информатике и математике. Степень PhD получена в Вашингтонском университете.
 
-**Научные интересы:**
+**Индустриальные проекты и научные интересы:**
 
-- Искусственный интеллект в образовании.
 - Глобальная оптимизация для задач с большими данными; потоковые, распределённые и параллельные алгоритмы.
 - Мультимодальный генеративный ИИ (GenAI), дополненный интеллект и мультиагентные системы.
+- Искусственный интеллект в образовании.
 
 ---
