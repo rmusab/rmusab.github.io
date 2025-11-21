@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Discover my curated collection of teaching materials, resources, and expert tips, drawn from my university studies, teaching experience, and professional expertise. Empower your learning and growth with valuable insights and practical tools
+# description:
 nav: true
 nav_order: 5
 ---

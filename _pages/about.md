@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to my homepage!
+# subtitle: Welcome to my homepage!
 
 profile:
   align: right
@@ -29,7 +29,7 @@ My professional work focuses on computer science and mathematics. I hold a PhD d
       <h1 class="post-title">
         <span class="font-weight-bold">Равиль</span> Мусабаев
       </h1>
-      <p class="desc">Добро пожаловать на мою страницу!</p>
+      <!-- <p class="desc">Добро пожаловать на мою страницу!</p> -->
 </header>
 
 Моя профессиональная деятельность сосредоточена на информатике и математике. Степень PhD получена в Вашингтонском университете.
