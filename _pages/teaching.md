@@ -9,10 +9,10 @@ nav_order: 5
 
 ## My Courses
 
-You can find my University of Washington profile with a list of courses [here](https://math.washington.edu/people/ravil-mussabayev).
-
 ### Satbayev University (2024-current)
 
+- Autumn 2025
+  - CSE7912: Development of Intelligent Applications
 - Spring 2025
   - CSE1273: Object-Oriented Programming in Java
 - Autumn 2024
@@ -80,7 +80,7 @@ You can find my University of Washington profile with a list of courses [here](h
 
 ## Resources
 
-In this section, I have curated resources that have been instrumental in my research. The aim is to provide valuable resources for those exploring these subjects independently.
+This section presents some resources that have been useful in my work.
 
 ### General Machine Learning & Theory
 

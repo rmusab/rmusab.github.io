@@ -43,7 +43,7 @@ nav_order: 3
 
 ---
 
-## Academic Code
+## Educational Code
 
 {% if site.data.repositories.study_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
