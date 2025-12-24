@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ravil
 middle_name:
 last_name: Mussabayev
-email: ravmus@u.washington.edu
+email: ravmus@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ravil Mussabayev's homepage
 footer_text:
@@ -73,7 +73,7 @@ linkedin_username: rmusab # your LinkedIn user name
 telegram_username: rmusab # your Telegram user name
 scholar_userid: -sdDKWwAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-vk_username: rmusab # your Vkontakte (VK) username
+vk_username: # your Vkontakte (VK) username
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-1105-5990 # your ORCID ID
 medium_username: # your Medium username

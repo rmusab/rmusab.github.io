@@ -23,13 +23,12 @@ My professional work focuses on computer science and mathematics. I hold a PhD d
 - Multimodal generative AI (GenAI), augmented intelligence, and multi-agent systems.
 - AI in education.
 
----
+<!-- ---
 
 <header class="post-header">
       <h1 class="post-title">
         <span class="font-weight-bold">Равиль</span> Мусабаев
       </h1>
-      <!-- <p class="desc">Добро пожаловать на мою страницу!</p> -->
 </header>
 
 Моя профессиональная деятельность сосредоточена на информатике и математике. Степень PhD получена в Вашингтонском университете.
@@ -40,4 +39,4 @@ My professional work focuses on computer science and mathematics. I hold a PhD d
 - Мультимодальный генеративный ИИ (GenAI), дополненный интеллект и мультиагентные системы.
 - Искусственный интеллект в образовании.
 
----
+--- -->
