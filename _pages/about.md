@@ -23,7 +23,9 @@ My professional work focuses on computer science and mathematics. I hold a PhD d
 - Multimodal generative AI (GenAI), augmented intelligence, and multi-agent systems.
 - AI in education.
 
-<!-- ---
+---
+
+<!--
 
 <header class="post-header">
       <h1 class="post-title">
