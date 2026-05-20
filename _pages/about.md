@@ -15,9 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+My name in Russian: **Мусабаев Равиль Рафикович**.
+
 I am a researcher and engineer working at the intersection of computer science and mathematics. I hold a PhD in Mathematics from the University of Washington, where I worked under the supervision of [Prof. Gunther Uhlmann](https://sites.math.washington.edu/~gunther/).
 
-My name in Russian: Мусабаев Равиль Рафикович.
+I love finding simple solutions to hard problems. Less is more.
 
 ---
 
