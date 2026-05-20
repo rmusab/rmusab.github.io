@@ -17,6 +17,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a researcher and engineer working at the intersection of computer science and mathematics. I hold a PhD in Mathematics from the University of Washington, where I worked under the supervision of [Prof. Gunther Uhlmann](https://sites.math.washington.edu/~gunther/).
 
+My name in Russian: Мусабаев Равиль Рафикович.
+
 ---
 
 ## Research Interests

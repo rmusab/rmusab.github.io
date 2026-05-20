@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ravil Mussabayev / Мусабаев Равиль Рафикович # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Ravil
 middle_name:
 last_name: Mussabayev
 email: ravmus@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ravil Mussabayev's homepage
+  Ravil Mussabayev's homepage. Домашняя страница Мусабаева Равиля Рафиковича
 footer_text:
 keywords: academic-website, portfolio-website, blog, mathematics, computer science, philosophy, education, resources, scientific papers  # add your own keywords or leave empty
 
