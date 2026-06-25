@@ -7,10 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-## My Courses
+## Courses Taught
 
 ### Satbayev University (2024-current)
 
+- Spring 2026
+  - CSE2383: Machine Learning
 - Autumn 2025
   - CSE7912: Development of Intelligent Applications
 - Spring 2025

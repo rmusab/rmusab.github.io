@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name in Russian: **Мусабаев Равиль Рафикович**.
+Name in Russian: **Мусабаев Равиль Рафикович**.
 
-I am a researcher and engineer working at the intersection of computer science and mathematics. I hold a PhD in Mathematics from the University of Washington, where I worked under the supervision of [Prof. Gunther Uhlmann](https://sites.math.washington.edu/~gunther/).
+I am a researcher and engineer working at the intersection of computer science and mathematics. I hold a PhD in Mathematics from the University of Washington (2024), where I worked under the supervision of [Prof. Gunther Uhlmann](https://sites.math.washington.edu/~gunther/).
 
 I love finding simple solutions to hard problems. Less is more.
 
@@ -25,21 +25,8 @@ I love finding simple solutions to hard problems. Less is more.
 
 ## Research Interests
 
-- Global optimization for big data problems; streaming, distributed, and parallel algorithms.
-- Multimodal generative AI (GenAI), augmented intelligence, and multi-agent systems.
-- AI in education: automation, adaptiveness, personalization, and agent benchmarking.
-- Natural language processing and AI for software engineering.
-
----
-
-## Education
-
-- **PhD in Mathematics**, University of Washington, Seattle, WA, 2024.
-  - *Dissertation*: "How to Use K-means for Big Data Clustering?"
-  - *Advisor*: [Prof. Gunther Uhlmann](https://sites.math.washington.edu/~gunther/)
-- **MS in Mathematics**, University of Washington, Seattle, WA, 2021.
-- **BE in Mathematical and Computer Modeling**, Kazakh-British Technical University, Almaty, Kazakhstan, 2018.
-  - *Advisor*: [Prof. Nurlan S. Dairbekov](https://www.researchgate.net/profile/Nurlan-Dairbekov)
+- Global Optimization for Big Data; Multimodal Optimization;
+- Collective Intelligence; Multi-Agent Systems.
 
 ---
 
