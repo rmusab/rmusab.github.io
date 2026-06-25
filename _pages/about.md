@@ -25,8 +25,10 @@ I love finding simple solutions to hard problems. Less is more.
 
 ## Research Interests
 
-- Global Optimization for Big Data; Multimodal Optimization;
-- Collective Intelligence; Multi-Agent Systems.
+- Global Optimization for Big Data.
+- Multimodal Optimization.
+- Collective Intelligence.
+- Multi-Agent Systems.
 
 ---
 
